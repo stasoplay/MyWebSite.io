@@ -9,10 +9,17 @@
 @keyframes fadeInY {
   from {
     opacity: 0;
+<<<<<<< HEAD
     transform: translateY(100%);
   }
   16% {
 		transform: translateY(0%);
+=======
+    transform: translateY(-100%);
+  }
+  16% {
+		transform: translateY(10%);
+>>>>>>> 76e42c3d20ff3492cecd90ba18673d788dda77db
 	}
 
 	28% {

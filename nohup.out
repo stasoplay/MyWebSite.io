@@ -3829,6 +3829,7 @@ BrokenPipeError: [Errno 32] Broken pipe
 127.0.0.1 - - [21/Nov/2025 19:51:40] "GET /style.css HTTP/1.1" 304 -
 127.0.0.1 - - [21/Nov/2025 19:51:41] "GET / HTTP/1.1" 304 -
 127.0.0.1 - - [21/Nov/2025 19:51:41] "GET /style.css HTTP/1.1" 304 -
+<<<<<<< HEAD
 127.64.82.255 - - [21/Nov/2025 19:53:29] "GET / HTTP/1.1" 200 -
 127.64.82.255 - - [21/Nov/2025 19:53:31] "GET /style.css HTTP/1.1" 200 -
 127.64.82.255 - - [21/Nov/2025 19:53:33] "GET /images%20&%20videos/background.jpg HTTP/1.1" 304 -
@@ -4027,3 +4028,5 @@ BrokenPipeError: [Errno 32] Broken pipe
 127.0.0.1 - - [22/Nov/2025 00:51:28] "GET /style.css HTTP/1.1" 304 -
 127.0.0.1 - - [22/Nov/2025 00:51:49] "GET / HTTP/1.1" 304 -
 127.0.0.1 - - [22/Nov/2025 00:51:49] "GET /style.css HTTP/1.1" 200 -
+=======
+>>>>>>> 76e42c3d20ff3492cecd90ba18673d788dda77db
