@@ -1420,3 +1420,569 @@ BrokenPipeError: [Errno 32] Broken pipe
 127.0.0.1 - - [21/Nov/2025 13:55:47] "GET / HTTP/1.1" 304 -
 127.0.0.1 - - [21/Nov/2025 13:55:47] "GET /style.css HTTP/1.1" 304 -
 127.0.0.1 - - [21/Nov/2025 13:55:47] "GET /images%20&%20videos/background.jpg HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 16:11:50] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 16:11:50] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 16:11:50] "GET /images%20&%20videos/background.jpg HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 16:11:50] "GET /images%20&%20videos/cube.mp4 HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 16:11:51] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 16:20:37] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 16:21:59] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 16:22:58] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 16:22:59] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 16:23:16] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 16:23:17] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 16:23:21] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 16:23:26] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 16:23:26] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 16:23:27] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 16:23:27] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 16:23:27] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 16:23:28] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 16:23:32] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 16:23:36] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 16:23:39] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 16:23:44] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 16:23:46] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 16:23:54] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 16:23:54] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 16:23:54] "GET /images%20&%20videos/cube.mp4 HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 16:23:54] "GET /images%20&%20videos/icon.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 16:23:55] "GET /images%20&%20videos/background.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 16:24:07] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 16:24:07] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 16:24:11] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 16:24:11] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 16:24:20] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 16:24:20] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 16:24:25] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 16:24:25] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 16:24:47] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 16:24:47] "GET /style.css HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 16:24:48] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 16:24:55] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 16:24:55] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 16:24:55] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 16:24:55] "GET /style.css HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 16:24:59] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 16:24:59] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 16:24:59] "GET /images%20&%20videos/icon.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 16:24:59] "GET /images%20&%20videos/background.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 16:25:13] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 16:25:13] "GET /style.css HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 16:25:26] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 16:25:26] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 16:25:36] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 16:25:37] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 16:25:41] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 16:25:41] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 16:25:44] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 16:25:44] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 16:25:49] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 16:25:49] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 16:26:05] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 16:26:05] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 16:26:29] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 16:26:29] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 16:26:54] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 16:26:54] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 16:27:03] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 16:27:03] "GET /style.css HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 16:27:04] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 16:27:04] "GET /style.css HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 16:27:04] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 16:27:04] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 16:27:05] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 16:27:05] "GET /style.css HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 16:28:01] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 16:28:01] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 16:28:36] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 16:28:37] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 16:28:41] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 16:28:41] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 16:28:44] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 16:28:44] "GET /style.css HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 16:28:48] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 16:28:48] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 16:28:50] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 16:28:50] "GET /style.css HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 16:29:41] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 16:29:41] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 16:29:42] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 16:29:42] "GET /style.css HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 16:29:43] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 16:29:43] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 16:29:44] "GET /images%20&%20videos/icon.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 16:29:44] "GET /images%20&%20videos/background.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 16:29:47] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 16:29:47] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 16:29:51] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 16:29:51] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 16:29:54] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 16:29:54] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 16:30:19] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 16:30:19] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 16:30:33] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 16:30:33] "GET /style.css HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 16:30:37] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 16:30:37] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 16:31:34] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 16:31:34] "GET /style.css HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 16:32:03] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 16:32:03] "GET /style.css HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 16:32:05] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 16:32:06] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 16:32:06] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 16:32:06] "GET /images%20&%20videos/icon.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 16:32:06] "GET /images%20&%20videos/background.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 16:32:17] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 16:32:17] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 16:32:19] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 16:32:19] "GET /style.css HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 16:32:39] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 16:32:39] "GET /style.css HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 16:32:58] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 16:32:58] "GET /style.css HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 16:35:06] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 16:35:06] "GET /style.css HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 16:35:06] "GET /images%20&%20videos/video_2.mp4 HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 16:35:06] "GET /images%20&%20videos/video_3.mp4 HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 16:35:06] "GET /images%20&%20videos/video.mp4 HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 16:35:22] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 16:35:23] "GET /images%20&%20videos/video_3.mp4 HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 16:35:27] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 16:35:27] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 16:35:27] "GET /images%20&%20videos/video_3.mp4 HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 16:35:41] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 16:35:41] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 16:35:59] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 16:35:59] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 16:36:03] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 16:36:03] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 16:36:19] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 16:36:19] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 16:36:37] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 16:36:37] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 16:36:37] "GET /images%20&%20videos/video_3.mp4 HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 16:37:51] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 16:37:52] "GET /style.css HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 16:40:06] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 16:40:07] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 16:40:14] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 16:40:14] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 16:40:32] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 16:40:32] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 16:43:44] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 16:43:44] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 16:43:44] "GET /images%20&%20videos/icon.jpg HTTP/1.1" 200 -
+----------------------------------------
+Exception occurred during processing of request from ('127.0.0.1', 36314)
+Traceback (most recent call last):
+  File "/usr/lib/python3.13/socketserver.py", line 697, in process_request_thread
+    self.finish_request(request, client_address)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.13/http/server.py", line 1320, in finish_request
+    self.RequestHandlerClass(request, client_address, self,
+    ~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                             directory=args.directory)
+                             ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.13/http/server.py", line 672, in __init__
+    super().__init__(*args, **kwargs)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.13/socketserver.py", line 766, in __init__
+    self.handle()
+    ~~~~~~~~~~~^^
+  File "/usr/lib/python3.13/http/server.py", line 436, in handle
+    self.handle_one_request()
+    ~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "/usr/lib/python3.13/http/server.py", line 424, in handle_one_request
+    method()
+    ~~~~~~^^
+  File "/usr/lib/python3.13/http/server.py", line 679, in do_GET
+    self.copyfile(f, self.wfile)
+    ~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.13/http/server.py", line 881, in copyfile
+    shutil.copyfileobj(source, outputfile)
+    ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.13/shutil.py", line 204, in copyfileobj
+    fdst_write(buf)
+    ~~~~~~~~~~^^^^^
+  File "/usr/lib/python3.13/socketserver.py", line 845, in write
+    self._sock.sendall(b)
+    ~~~~~~~~~~~~~~~~~~^^^
+BrokenPipeError: [Errno 32] Broken pipe
+----------------------------------------
+127.0.0.1 - - [21/Nov/2025 16:43:52] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 16:43:52] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 16:45:01] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 16:45:01] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 16:45:35] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 16:45:35] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 16:45:40] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 16:45:40] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 16:45:51] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 16:45:51] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 16:46:08] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 16:46:08] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 16:46:15] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 16:46:15] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 16:46:33] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 16:46:33] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 16:46:54] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 16:46:54] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 16:47:03] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 16:47:03] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 16:47:29] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 16:47:29] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 16:47:34] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 16:47:34] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 16:47:50] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 16:47:50] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 16:48:00] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 16:48:00] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 16:48:10] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 16:48:10] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 16:48:33] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 16:48:34] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 16:48:51] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 16:48:51] "GET /style.css HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 16:48:51] "GET /images%20&%20videos/icon.jpg HTTP/1.1" 200 -
+----------------------------------------
+Exception occurred during processing of request from ('127.0.0.1', 38516)
+Traceback (most recent call last):
+  File "/usr/lib/python3.13/socketserver.py", line 697, in process_request_thread
+    self.finish_request(request, client_address)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.13/http/server.py", line 1320, in finish_request
+    self.RequestHandlerClass(request, client_address, self,
+    ~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                             directory=args.directory)
+                             ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.13/http/server.py", line 672, in __init__
+    super().__init__(*args, **kwargs)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.13/socketserver.py", line 766, in __init__
+    self.handle()
+    ~~~~~~~~~~~^^
+  File "/usr/lib/python3.13/http/server.py", line 436, in handle
+    self.handle_one_request()
+    ~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "/usr/lib/python3.13/http/server.py", line 424, in handle_one_request
+    method()
+    ~~~~~~^^
+  File "/usr/lib/python3.13/http/server.py", line 679, in do_GET
+    self.copyfile(f, self.wfile)
+    ~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.13/http/server.py", line 881, in copyfile
+    shutil.copyfileobj(source, outputfile)
+    ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.13/shutil.py", line 204, in copyfileobj
+    fdst_write(buf)
+    ~~~~~~~~~~^^^^^
+  File "/usr/lib/python3.13/socketserver.py", line 845, in write
+    self._sock.sendall(b)
+    ~~~~~~~~~~~~~~~~~~^^^
+BrokenPipeError: [Errno 32] Broken pipe
+----------------------------------------
+127.0.0.1 - - [21/Nov/2025 16:50:09] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 16:50:10] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 16:50:10] "GET /images%20&%20videos/video_3.mp4 HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 16:50:10] "GET /images%20&%20videos/background.jpg HTTP/1.1" 304 -
+----------------------------------------
+Exception occurred during processing of request from ('127.0.0.1', 51658)
+Traceback (most recent call last):
+  File "/usr/lib/python3.13/socketserver.py", line 697, in process_request_thread
+    self.finish_request(request, client_address)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.13/http/server.py", line 1320, in finish_request
+    self.RequestHandlerClass(request, client_address, self,
+    ~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                             directory=args.directory)
+                             ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.13/http/server.py", line 672, in __init__
+    super().__init__(*args, **kwargs)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.13/socketserver.py", line 766, in __init__
+    self.handle()
+    ~~~~~~~~~~~^^
+  File "/usr/lib/python3.13/http/server.py", line 436, in handle
+    self.handle_one_request()
+    ~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "/usr/lib/python3.13/http/server.py", line 424, in handle_one_request
+    method()
+    ~~~~~~^^
+  File "/usr/lib/python3.13/http/server.py", line 679, in do_GET
+    self.copyfile(f, self.wfile)
+    ~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.13/http/server.py", line 881, in copyfile
+    shutil.copyfileobj(source, outputfile)
+    ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.13/shutil.py", line 204, in copyfileobj
+    fdst_write(buf)
+    ~~~~~~~~~~^^^^^
+  File "/usr/lib/python3.13/socketserver.py", line 845, in write
+    self._sock.sendall(b)
+    ~~~~~~~~~~~~~~~~~~^^^
+ConnectionResetError: [Errno 104] Connection reset by peer
+----------------------------------------
+127.0.0.1 - - [21/Nov/2025 16:50:50] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 16:50:50] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 16:51:09] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 16:51:09] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 16:51:33] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 16:51:33] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 16:52:05] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 16:52:06] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 16:52:06] "GET /images%20&%20videos/video_3.mp4 HTTP/1.1" 200 -
+----------------------------------------
+Exception occurred during processing of request from ('127.0.0.1', 35372)
+Traceback (most recent call last):
+  File "/usr/lib/python3.13/socketserver.py", line 697, in process_request_thread
+    self.finish_request(request, client_address)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.13/http/server.py", line 1320, in finish_request
+    self.RequestHandlerClass(request, client_address, self,
+    ~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                             directory=args.directory)
+                             ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.13/http/server.py", line 672, in __init__
+    super().__init__(*args, **kwargs)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.13/socketserver.py", line 766, in __init__
+    self.handle()
+    ~~~~~~~~~~~^^
+  File "/usr/lib/python3.13/http/server.py", line 436, in handle
+    self.handle_one_request()
+    ~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "/usr/lib/python3.13/http/server.py", line 424, in handle_one_request
+    method()
+    ~~~~~~^^
+  File "/usr/lib/python3.13/http/server.py", line 679, in do_GET
+    self.copyfile(f, self.wfile)
+    ~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.13/http/server.py", line 881, in copyfile
+    shutil.copyfileobj(source, outputfile)
+    ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.13/shutil.py", line 204, in copyfileobj
+    fdst_write(buf)
+    ~~~~~~~~~~^^^^^
+  File "/usr/lib/python3.13/socketserver.py", line 845, in write
+    self._sock.sendall(b)
+    ~~~~~~~~~~~~~~~~~~^^^
+ConnectionResetError: [Errno 104] Connection reset by peer
+----------------------------------------
+127.0.0.1 - - [21/Nov/2025 16:52:07] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 16:52:07] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 16:52:07] "GET /images%20&%20videos/video_3.mp4 HTTP/1.1" 200 -
+----------------------------------------
+Exception occurred during processing of request from ('127.0.0.1', 35390)
+Traceback (most recent call last):
+  File "/usr/lib/python3.13/socketserver.py", line 697, in process_request_thread
+    self.finish_request(request, client_address)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.13/http/server.py", line 1320, in finish_request
+    self.RequestHandlerClass(request, client_address, self,
+    ~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                             directory=args.directory)
+                             ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.13/http/server.py", line 672, in __init__
+    super().__init__(*args, **kwargs)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.13/socketserver.py", line 766, in __init__
+    self.handle()
+    ~~~~~~~~~~~^^
+  File "/usr/lib/python3.13/http/server.py", line 436, in handle
+    self.handle_one_request()
+    ~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "/usr/lib/python3.13/http/server.py", line 424, in handle_one_request
+    method()
+    ~~~~~~^^
+  File "/usr/lib/python3.13/http/server.py", line 679, in do_GET
+    self.copyfile(f, self.wfile)
+    ~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.13/http/server.py", line 881, in copyfile
+    shutil.copyfileobj(source, outputfile)
+    ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.13/shutil.py", line 204, in copyfileobj
+    fdst_write(buf)
+    ~~~~~~~~~~^^^^^
+  File "/usr/lib/python3.13/socketserver.py", line 845, in write
+    self._sock.sendall(b)
+    ~~~~~~~~~~~~~~~~~~^^^
+ConnectionResetError: [Errno 104] Connection reset by peer
+----------------------------------------
+127.0.0.1 - - [21/Nov/2025 16:52:11] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 16:52:11] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 16:52:11] "GET /images%20&%20videos/video_3.mp4 HTTP/1.1" 200 -
+----------------------------------------
+Exception occurred during processing of request from ('127.0.0.1', 56490)
+Traceback (most recent call last):
+  File "/usr/lib/python3.13/socketserver.py", line 697, in process_request_thread
+    self.finish_request(request, client_address)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.13/http/server.py", line 1320, in finish_request
+    self.RequestHandlerClass(request, client_address, self,
+    ~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                             directory=args.directory)
+                             ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.13/http/server.py", line 672, in __init__
+    super().__init__(*args, **kwargs)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.13/socketserver.py", line 766, in __init__
+    self.handle()
+    ~~~~~~~~~~~^^
+  File "/usr/lib/python3.13/http/server.py", line 436, in handle
+    self.handle_one_request()
+    ~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "/usr/lib/python3.13/http/server.py", line 424, in handle_one_request
+    method()
+    ~~~~~~^^
+  File "/usr/lib/python3.13/http/server.py", line 679, in do_GET
+    self.copyfile(f, self.wfile)
+    ~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.13/http/server.py", line 881, in copyfile
+    shutil.copyfileobj(source, outputfile)
+    ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.13/shutil.py", line 204, in copyfileobj
+    fdst_write(buf)
+    ~~~~~~~~~~^^^^^
+  File "/usr/lib/python3.13/socketserver.py", line 845, in write
+    self._sock.sendall(b)
+    ~~~~~~~~~~~~~~~~~~^^^
+ConnectionResetError: [Errno 104] Connection reset by peer
+----------------------------------------
+127.0.0.1 - - [21/Nov/2025 16:52:31] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 16:52:31] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 16:52:33] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 16:52:33] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 16:53:12] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 16:53:12] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 16:53:16] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 16:53:16] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 16:53:22] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 16:53:22] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 16:53:35] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 16:53:35] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 16:53:43] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 16:53:43] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 16:53:48] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 16:53:48] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 16:54:09] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 16:54:09] "GET /style.css HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 16:54:18] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 16:54:18] "GET /style.css HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 16:54:24] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 16:54:24] "GET /style.css HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 16:54:29] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 16:54:29] "GET /style.css HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 16:54:36] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 16:54:36] "GET /style.css HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 16:54:45] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 16:54:45] "GET /style.css HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 16:56:03] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 16:56:03] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 16:56:16] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 16:56:16] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 16:56:21] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 16:56:21] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 16:57:19] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 16:57:19] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 16:57:23] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 16:57:23] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 16:57:26] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 16:57:26] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 16:57:28] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 16:57:28] "GET /style.css HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 16:57:32] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 16:57:32] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 16:57:53] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 16:57:53] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 16:57:55] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 16:57:55] "GET /style.css HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 16:59:00] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 16:59:00] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 16:59:15] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 16:59:15] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 16:59:16] "GET /images%20&%20videos/video_3.mp4 HTTP/1.1" 200 -
+----------------------------------------
+Exception occurred during processing of request from ('127.0.0.1', 41024)
+Traceback (most recent call last):
+  File "/usr/lib/python3.13/socketserver.py", line 697, in process_request_thread
+    self.finish_request(request, client_address)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.13/http/server.py", line 1320, in finish_request
+    self.RequestHandlerClass(request, client_address, self,
+    ~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                             directory=args.directory)
+                             ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.13/http/server.py", line 672, in __init__
+    super().__init__(*args, **kwargs)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.13/socketserver.py", line 766, in __init__
+    self.handle()
+    ~~~~~~~~~~~^^
+  File "/usr/lib/python3.13/http/server.py", line 436, in handle
+    self.handle_one_request()
+    ~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "/usr/lib/python3.13/http/server.py", line 424, in handle_one_request
+    method()
+    ~~~~~~^^
+  File "/usr/lib/python3.13/http/server.py", line 679, in do_GET
+    self.copyfile(f, self.wfile)
+    ~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.13/http/server.py", line 881, in copyfile
+    shutil.copyfileobj(source, outputfile)
+    ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.13/shutil.py", line 204, in copyfileobj
+    fdst_write(buf)
+    ~~~~~~~~~~^^^^^
+  File "/usr/lib/python3.13/socketserver.py", line 845, in write
+    self._sock.sendall(b)
+    ~~~~~~~~~~~~~~~~~~^^^
+ConnectionResetError: [Errno 104] Connection reset by peer
+----------------------------------------
+127.0.0.1 - - [21/Nov/2025 16:59:26] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 16:59:26] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 16:59:39] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 16:59:39] "GET /style.css HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 17:00:03] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 17:00:03] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 17:00:09] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 17:00:09] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 17:00:14] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 17:00:14] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 17:00:26] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 17:00:26] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 17:00:36] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 17:00:36] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 17:00:42] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 17:00:42] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 17:00:58] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 17:00:58] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 17:01:01] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 17:01:01] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 17:01:05] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 17:01:05] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 17:01:24] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 17:01:24] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 17:01:29] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 17:01:29] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 17:01:32] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 17:01:32] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 17:01:35] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 17:01:35] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 17:01:41] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 17:01:41] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 17:01:42] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 17:01:42] "GET /style.css HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 17:02:44] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 17:02:44] "GET /style.css HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 17:03:06] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 17:03:06] "GET /style.css HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 17:03:23] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 17:03:23] "GET /style.css HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 17:03:29] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 17:03:29] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 17:03:29] "GET /images%20&%20videos/background.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 17:03:30] "GET /images%20&%20videos/icon.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 17:04:17] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 17:04:17] "GET /style.css HTTP/1.1" 304 -
