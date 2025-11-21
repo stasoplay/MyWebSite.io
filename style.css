@@ -16,7 +16,7 @@
 	}
 
 	28% {
-		transform: translateY(-3%);
+		transform: translateY(-6%);
 	}
 
 	44% {
@@ -75,7 +75,6 @@ footer {
     text-align: center;
     padding: 50px 0;
     clear: both;
-    background: rgba(0,0,0,0.7);
     margin-top: 50px;
 }
 
@@ -147,7 +146,7 @@ p {
 
 .animated-text {
   opacity: 0;
-  animation: fadeInY 1.2s ease-out forwards;
+  animation: fadeInY 1.5s ease-out forwards;
 }
 
 .fadein-text {
