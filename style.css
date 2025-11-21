@@ -9,10 +9,10 @@
 @keyframes fadeInY {
   from {
     opacity: 0;
-    transform: translateY(-100%);
+    transform: translateY(100%);
   }
   16% {
-		transform: translateY(10%);
+		transform: translateY(0%);
 	}
 
 	28% {
@@ -92,6 +92,7 @@ h1 {
     color: #faf;
     border: 10px outset rgba(255,200,255,0.5);
     padding: 30px;
+    border-radius: 10px;
 }
 
 p {
