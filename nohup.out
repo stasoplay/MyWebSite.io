@@ -1,0 +1,1422 @@
+127.0.0.1 - - [20/Nov/2025 15:12:56] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 15:12:56] code 404, message File not found
+127.0.0.1 - - [20/Nov/2025 15:12:56] "GET /css/style.css HTTP/1.1" 404 -
+127.0.0.1 - - [20/Nov/2025 15:12:57] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 15:12:57] code 404, message File not found
+127.0.0.1 - - [20/Nov/2025 15:12:57] "GET /css/style.css HTTP/1.1" 404 -
+127.0.0.1 - - [20/Nov/2025 15:12:58] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 15:12:58] code 404, message File not found
+127.0.0.1 - - [20/Nov/2025 15:12:58] "GET /css/style.css HTTP/1.1" 404 -
+127.0.0.1 - - [20/Nov/2025 15:12:58] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 15:12:58] code 404, message File not found
+127.0.0.1 - - [20/Nov/2025 15:12:58] "GET /css/style.css HTTP/1.1" 404 -
+127.0.0.1 - - [20/Nov/2025 15:12:58] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 15:12:58] code 404, message File not found
+127.0.0.1 - - [20/Nov/2025 15:12:58] "GET /css/style.css HTTP/1.1" 404 -
+127.0.0.1 - - [20/Nov/2025 15:13:27] code 404, message File not found
+127.0.0.1 - - [20/Nov/2025 15:13:27] "GET /css/style.css HTTP/1.1" 404 -
+127.0.0.1 - - [20/Nov/2025 15:15:13] "HEAD / HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 15:17:58] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 15:18:00] code 404, message File not found
+127.0.0.1 - - [20/Nov/2025 15:18:00] "GET /css/style.css HTTP/1.1" 404 -
+127.0.0.1 - - [20/Nov/2025 15:18:02] code 404, message File not found
+127.0.0.1 - - [20/Nov/2025 15:18:02] "GET /favicon.ico HTTP/1.1" 404 -
+127.0.0.1 - - [20/Nov/2025 15:22:03] code 404, message File not found
+127.0.0.1 - - [20/Nov/2025 15:22:03] "GET /css/style.css HTTP/1.1" 404 -
+127.0.0.1 - - [20/Nov/2025 15:22:04] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 15:22:04] code 404, message File not found
+127.0.0.1 - - [20/Nov/2025 15:22:04] "GET /css/style.css HTTP/1.1" 404 -
+127.0.0.1 - - [20/Nov/2025 15:22:05] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 15:22:05] code 404, message File not found
+127.0.0.1 - - [20/Nov/2025 15:22:05] "GET /css/style.css HTTP/1.1" 404 -
+127.0.0.1 - - [20/Nov/2025 15:22:06] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 15:22:06] code 404, message File not found
+127.0.0.1 - - [20/Nov/2025 15:22:06] "GET /css/style.css HTTP/1.1" 404 -
+127.0.0.1 - - [20/Nov/2025 15:23:01] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 15:23:02] code 404, message File not found
+127.0.0.1 - - [20/Nov/2025 15:23:02] "GET /css/style.css HTTP/1.1" 404 -
+127.0.0.1 - - [20/Nov/2025 15:23:04] code 404, message File not found
+127.0.0.1 - - [20/Nov/2025 15:23:04] "GET /favicon.ico HTTP/1.1" 404 -
+127.0.0.1 - - [20/Nov/2025 15:24:12] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 15:24:13] code 404, message File not found
+127.0.0.1 - - [20/Nov/2025 15:24:13] "GET /css/style.css HTTP/1.1" 404 -
+127.0.0.1 - - [20/Nov/2025 15:25:39] "HEAD / HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 15:25:40] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 15:25:48] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 15:25:48] code 404, message File not found
+127.0.0.1 - - [20/Nov/2025 15:25:48] "GET /css/style.css HTTP/1.1" 404 -
+127.0.0.1 - - [20/Nov/2025 15:25:50] code 404, message File not found
+127.0.0.1 - - [20/Nov/2025 15:25:50] "GET /favicon.ico HTTP/1.1" 404 -
+127.0.0.1 - - [20/Nov/2025 15:25:50] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 15:25:52] code 404, message File not found
+127.0.0.1 - - [20/Nov/2025 15:25:52] "GET /css/style.css HTTP/1.1" 404 -
+127.0.0.1 - - [20/Nov/2025 15:26:03] "HEAD / HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 15:26:04] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 15:26:11] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 15:26:12] code 404, message File not found
+127.0.0.1 - - [20/Nov/2025 15:26:12] "GET /css/style.css HTTP/1.1" 404 -
+127.0.0.1 - - [20/Nov/2025 15:26:14] code 404, message File not found
+127.0.0.1 - - [20/Nov/2025 15:26:14] "GET /favicon.ico HTTP/1.1" 404 -
+127.0.0.1 - - [20/Nov/2025 15:26:26] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 15:26:27] code 404, message File not found
+127.0.0.1 - - [20/Nov/2025 15:26:27] "GET /css/style.css HTTP/1.1" 404 -
+127.0.0.1 - - [20/Nov/2025 15:28:14] "HEAD / HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 15:28:15] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 15:46:02] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 15:46:02] code 404, message File not found
+127.0.0.1 - - [20/Nov/2025 15:46:02] "GET /css/style.css HTTP/1.1" 404 -
+127.0.0.1 - - [20/Nov/2025 15:47:15] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 15:47:15] code 404, message File not found
+127.0.0.1 - - [20/Nov/2025 15:47:15] "GET /css/style.css HTTP/1.1" 404 -
+127.0.0.1 - - [20/Nov/2025 15:47:15] "GET /t2x2.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 15:47:15] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 15:47:15] code 404, message File not found
+127.0.0.1 - - [20/Nov/2025 15:47:15] "GET /css/style.css HTTP/1.1" 404 -
+127.0.0.1 - - [20/Nov/2025 15:47:15] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 15:47:15] code 404, message File not found
+127.0.0.1 - - [20/Nov/2025 15:47:15] "GET /css/style.css HTTP/1.1" 404 -
+127.0.0.1 - - [20/Nov/2025 15:47:18] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 15:47:18] code 404, message File not found
+127.0.0.1 - - [20/Nov/2025 15:47:18] "GET /css/style.css HTTP/1.1" 404 -
+127.0.0.1 - - [20/Nov/2025 15:47:18] "GET /t2x2.jpg HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 15:47:22] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 15:47:22] code 404, message File not found
+127.0.0.1 - - [20/Nov/2025 15:47:22] "GET /css/style.css HTTP/1.1" 404 -
+127.0.0.1 - - [20/Nov/2025 15:47:22] "GET /t2x2.jpg HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 15:47:23] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 15:47:23] code 404, message File not found
+127.0.0.1 - - [20/Nov/2025 15:47:23] "GET /css/style.css HTTP/1.1" 404 -
+127.0.0.1 - - [20/Nov/2025 15:50:27] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 15:50:27] code 404, message File not found
+127.0.0.1 - - [20/Nov/2025 15:50:27] "GET /css/style.css HTTP/1.1" 404 -
+127.0.0.1 - - [20/Nov/2025 15:50:27] "GET /t2x2.jpg HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 15:50:27] "GET /video.mp4 HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 15:50:50] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 15:50:51] code 404, message File not found
+127.0.0.1 - - [20/Nov/2025 15:50:51] "GET /css/style.css HTTP/1.1" 404 -
+127.0.0.1 - - [20/Nov/2025 15:50:51] "GET /t2x2.jpg HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 15:51:05] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 15:51:05] code 404, message File not found
+127.0.0.1 - - [20/Nov/2025 15:51:05] "GET /css/style.css HTTP/1.1" 404 -
+127.0.0.1 - - [20/Nov/2025 15:51:14] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 15:51:14] code 404, message File not found
+127.0.0.1 - - [20/Nov/2025 15:51:14] "GET /css/style.css HTTP/1.1" 404 -
+127.0.0.1 - - [20/Nov/2025 15:51:50] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 15:51:50] code 404, message File not found
+127.0.0.1 - - [20/Nov/2025 15:51:50] "GET /css/style.css HTTP/1.1" 404 -
+127.0.0.1 - - [20/Nov/2025 15:51:50] "GET /t2x2.jpg HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 15:51:50] "GET /video.mp4 HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 15:51:59] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 15:51:59] code 404, message File not found
+127.0.0.1 - - [20/Nov/2025 15:51:59] "GET /css/style.css HTTP/1.1" 404 -
+127.0.0.1 - - [20/Nov/2025 15:52:33] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 15:52:33] code 404, message File not found
+127.0.0.1 - - [20/Nov/2025 15:52:33] "GET /css/style.css HTTP/1.1" 404 -
+127.0.0.1 - - [20/Nov/2025 15:52:33] "GET /t2x2.jpg HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 15:52:33] "GET /video.mp4 HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 15:53:00] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 15:53:01] code 404, message File not found
+127.0.0.1 - - [20/Nov/2025 15:53:01] "GET /css/style.css HTTP/1.1" 404 -
+127.0.0.1 - - [20/Nov/2025 15:53:02] "GET /video.mp4 HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 15:53:03] code 404, message File not found
+127.0.0.1 - - [20/Nov/2025 15:53:03] "GET /favicon.ico HTTP/1.1" 404 -
+127.0.0.1 - - [20/Nov/2025 15:53:03] "GET /t2x2.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 15:53:07] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 15:53:08] code 404, message File not found
+127.0.0.1 - - [20/Nov/2025 15:53:08] "GET /css/style.css HTTP/1.1" 404 -
+127.0.0.1 - - [20/Nov/2025 15:53:10] "GET /video.mp4 HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 15:53:14] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 15:55:49] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 15:55:50] code 404, message File not found
+127.0.0.1 - - [20/Nov/2025 15:55:50] "GET /css/style.css HTTP/1.1" 404 -
+127.0.0.1 - - [20/Nov/2025 15:55:51] "GET /video.mp4 HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 15:55:52] "GET /t2x2.jpg HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 15:56:12] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 15:56:12] code 404, message File not found
+127.0.0.1 - - [20/Nov/2025 15:56:12] "GET /css/style.css HTTP/1.1" 404 -
+127.0.0.1 - - [20/Nov/2025 15:56:14] "GET /video.mp4 HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 15:57:13] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 15:57:15] code 404, message File not found
+127.0.0.1 - - [20/Nov/2025 15:57:15] "GET /css/style.css HTTP/1.1" 404 -
+127.0.0.1 - - [20/Nov/2025 15:57:16] "GET /video.mp4 HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 15:57:17] "GET /t2x2.jpg HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 15:57:42] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 15:57:43] code 404, message File not found
+127.0.0.1 - - [20/Nov/2025 15:57:43] "GET /css/style.css HTTP/1.1" 404 -
+127.0.0.1 - - [20/Nov/2025 15:57:45] "GET /video.mp4 HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 16:00:40] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 16:00:41] code 404, message File not found
+127.0.0.1 - - [20/Nov/2025 16:00:41] "GET /css/style.css HTTP/1.1" 404 -
+127.0.0.1 - - [20/Nov/2025 16:00:42] "GET /t2x2.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 16:00:42] code 404, message File not found
+127.0.0.1 - - [20/Nov/2025 16:00:42] "GET /favicon.ico HTTP/1.1" 404 -
+127.0.0.1 - - [20/Nov/2025 16:00:42] "GET /video.mp4 HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 16:01:26] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 16:01:26] code 404, message File not found
+127.0.0.1 - - [20/Nov/2025 16:01:26] "GET /css/style.css HTTP/1.1" 404 -
+127.0.0.1 - - [20/Nov/2025 16:01:26] "GET /t2x2.jpg HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 16:01:27] "GET /video.mp4 HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 16:01:27] code 404, message File not found
+127.0.0.1 - - [20/Nov/2025 16:01:27] "GET /favicon.ico HTTP/1.1" 404 -
+127.0.0.1 - - [20/Nov/2025 16:01:28] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 16:01:28] code 404, message File not found
+127.0.0.1 - - [20/Nov/2025 16:01:28] "GET /css/style.css HTTP/1.1" 404 -
+127.0.0.1 - - [20/Nov/2025 16:01:34] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 16:01:34] code 404, message File not found
+127.0.0.1 - - [20/Nov/2025 16:01:34] "GET /css/style.css HTTP/1.1" 404 -
+127.0.0.1 - - [20/Nov/2025 16:01:49] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 16:01:49] code 404, message File not found
+127.0.0.1 - - [20/Nov/2025 16:01:49] "GET /css/style.css HTTP/1.1" 404 -
+127.0.0.1 - - [20/Nov/2025 16:01:53] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 16:01:53] code 404, message File not found
+127.0.0.1 - - [20/Nov/2025 16:01:53] "GET /css/style.css HTTP/1.1" 404 -
+127.0.0.1 - - [20/Nov/2025 16:01:54] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 16:01:54] code 404, message File not found
+127.0.0.1 - - [20/Nov/2025 16:01:54] "GET /css/style.css HTTP/1.1" 404 -
+127.0.0.1 - - [20/Nov/2025 16:01:54] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 16:01:54] code 404, message File not found
+127.0.0.1 - - [20/Nov/2025 16:01:54] "GET /css/style.css HTTP/1.1" 404 -
+127.0.0.1 - - [20/Nov/2025 16:02:54] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 16:02:54] code 404, message File not found
+127.0.0.1 - - [20/Nov/2025 16:02:54] "GET /css/style.css HTTP/1.1" 404 -
+127.0.0.1 - - [20/Nov/2025 16:02:54] "GET /t2x2.jpg HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 16:02:54] "GET /video.mp4 HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 16:04:23] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 16:04:23] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 16:04:54] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 16:04:54] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 16:04:54] "GET /t2x2.jpg HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 16:04:54] "GET /video.mp4 HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 16:05:01] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 16:05:01] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 16:06:18] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 16:06:18] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 16:06:35] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 16:06:35] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 16:06:43] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 16:06:43] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 16:06:43] "GET /t2x2.jpg HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 16:06:52] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 16:06:53] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 16:06:53] "GET /video.mp4 HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 16:06:58] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 16:06:58] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 16:07:01] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 16:07:01] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 16:07:05] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 16:07:05] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 16:07:27] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 16:07:27] "GET /style.css HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 16:07:34] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 16:07:34] "GET /style.css HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 16:07:40] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 16:07:40] "GET /style.css HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 16:07:51] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 16:07:52] "GET /style.css HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 16:08:09] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 16:08:09] "GET /style.css HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 16:08:21] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 16:08:21] "GET /style.css HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 16:08:25] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 16:08:32] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 16:08:32] "GET /style.css HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 16:08:39] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 16:08:44] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 16:08:45] "GET /style.css HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 16:08:45] "GET /t2x2.jpg HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 16:08:48] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 16:08:51] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 16:08:51] "GET /video.mp4 HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 16:09:01] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 16:09:01] "GET /style.css HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 16:09:27] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 16:09:27] "GET /style.css HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 16:10:36] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 16:10:36] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 16:10:37] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 16:10:37] "GET /style.css HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 16:11:11] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 16:11:11] "GET /style.css HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 16:11:11] "GET /t2x2.jpg HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 16:11:11] "GET /video.mp4 HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 16:13:19] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 16:13:19] "GET /style.css HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 16:13:19] "GET /icon.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 16:17:04] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 16:17:04] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 16:17:04] "GET /t2x2.jpg HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 16:17:04] "GET /video.mp4 HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 17:13:23] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 17:13:23] "GET /style.css HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 17:13:23] "GET /t2x2.jpg HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 17:13:23] "GET /video.mp4 HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 17:14:42] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 17:14:42] "GET /images%20&%20videos/t2x2.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 17:14:42] "GET /images%20&%20videos/video.mp4 HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 17:14:42] "GET /images%20&%20videos/icon.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 17:14:43] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 17:14:45] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 17:14:56] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 17:19:21] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 17:19:44] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 17:19:44] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 17:20:00] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 17:20:00] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 17:21:00] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 17:21:00] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 17:21:21] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 17:21:21] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 17:21:26] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 17:21:26] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 17:21:35] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 17:21:35] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 17:21:42] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 17:21:42] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 17:23:51] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 17:23:51] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 17:23:51] "GET /images%20&%20videos/t2x2.jpg HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 17:23:51] "GET /images%20&%20videos/video.mp4 HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 17:23:57] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 17:23:57] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 17:23:59] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 17:23:59] "GET /style.css HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 17:24:11] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 17:24:11] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 17:24:29] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 17:24:29] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 17:24:29] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 17:24:29] "GET /style.css HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 17:24:30] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 17:24:30] "GET /style.css HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 17:24:42] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 17:24:42] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 17:25:21] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 17:25:21] "GET /style.css HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 17:25:30] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 17:25:30] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 17:25:50] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 17:25:50] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 17:25:54] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 17:25:54] "GET /style.css HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 17:26:04] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 17:26:04] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 17:26:04] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 17:26:04] "GET /style.css HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 17:26:05] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 17:26:05] "GET /style.css HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 17:26:05] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 17:26:05] "GET /style.css HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 17:26:21] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 17:26:21] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 17:26:24] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 17:26:24] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 17:26:31] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 17:26:31] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 17:26:47] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 17:26:47] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 17:27:13] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 17:27:13] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 17:27:13] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 17:27:13] "GET /style.css HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 17:27:14] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 17:27:14] "GET /style.css HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 17:27:30] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 17:27:30] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 17:27:31] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 17:27:31] "GET /style.css HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 17:27:31] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 17:27:31] "GET /style.css HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 17:27:47] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 17:27:47] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 17:27:47] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 17:27:48] "GET /style.css HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 17:27:54] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 17:27:54] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 17:27:58] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 17:27:58] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 17:30:02] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 17:30:02] "GET /style.css HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 17:30:03] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 17:30:03] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 17:30:03] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 17:30:07] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 17:30:45] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 17:30:45] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 17:30:45] "GET /images%20&%20videos/background.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 17:30:45] "GET /images%20&%20videos/background.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 17:31:23] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 17:31:23] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 17:31:23] "GET /images%20&%20videos/background.jpg HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 17:31:39] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 17:31:39] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 17:31:39] "GET /images%20&%20videos/background.jpg HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 17:31:44] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 17:31:44] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 17:31:47] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 17:31:47] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 17:32:07] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 17:32:07] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 17:32:07] "GET /images%20&%20videos/background.jpg HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 17:32:22] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 17:32:22] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 17:32:22] "GET /images%20&%20videos/background.jpg HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 17:32:26] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 17:32:26] "GET /style.css HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 17:32:31] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 17:32:31] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 17:34:22] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 17:34:22] "GET /style.css HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 17:34:22] "GET /images%20&%20videos/t2x2.jpg HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 17:34:22] "GET /images%20&%20videos/video.mp4 HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 17:34:22] "GET /images%20&%20videos/background.jpg HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 17:37:40] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 17:37:40] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 17:37:58] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 17:37:58] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 17:39:34] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 17:39:34] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 17:39:34] "GET /images%20&%20videos/background.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 17:39:34] "GET /images%20&%20videos/background.jpg HTTP/1.1" 200 -
+----------------------------------------
+Exception occurred during processing of request from ('127.0.0.1', 38152)
+Traceback (most recent call last):
+  File "/usr/lib/python3.13/socketserver.py", line 697, in process_request_thread
+    self.finish_request(request, client_address)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.13/http/server.py", line 1320, in finish_request
+    self.RequestHandlerClass(request, client_address, self,
+    ~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                             directory=args.directory)
+                             ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.13/http/server.py", line 672, in __init__
+    super().__init__(*args, **kwargs)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.13/socketserver.py", line 766, in __init__
+    self.handle()
+    ~~~~~~~~~~~^^
+  File "/usr/lib/python3.13/http/server.py", line 436, in handle
+    self.handle_one_request()
+    ~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "/usr/lib/python3.13/http/server.py", line 424, in handle_one_request
+    method()
+    ~~~~~~^^
+  File "/usr/lib/python3.13/http/server.py", line 679, in do_GET
+    self.copyfile(f, self.wfile)
+    ~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.13/http/server.py", line 881, in copyfile
+    shutil.copyfileobj(source, outputfile)
+    ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.13/shutil.py", line 204, in copyfileobj
+    fdst_write(buf)
+    ~~~~~~~~~~^^^^^
+  File "/usr/lib/python3.13/socketserver.py", line 845, in write
+    self._sock.sendall(b)
+    ~~~~~~~~~~~~~~~~~~^^^
+BrokenPipeError: [Errno 32] Broken pipe
+----------------------------------------
+127.0.0.1 - - [20/Nov/2025 17:40:52] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 17:40:52] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 17:40:52] "GET /images%20&%20videos/background.jpg HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 17:41:17] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 17:41:17] "GET /style.css HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 17:41:34] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 17:41:35] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 17:42:22] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 17:42:22] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 17:42:22] "GET /images%20&%20videos/background.jpg HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 17:42:23] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 17:42:23] "GET /style.css HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 17:42:26] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 17:42:26] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 17:42:29] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 17:42:29] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 17:42:44] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 17:42:44] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 17:43:30] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 17:43:30] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 17:43:35] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 17:43:35] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 17:43:52] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 17:43:52] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 17:43:52] "GET /images%20&%20videos/background.jpg HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 17:43:58] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 17:43:58] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 17:44:26] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 17:44:26] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 17:44:43] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 17:44:43] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 17:44:51] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 17:44:51] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 17:45:00] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 17:45:00] "GET /style.css HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 17:45:00] "GET /images%20&%20videos/video.mp4 HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 17:45:06] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 17:45:06] "GET /style.css HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 17:45:41] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 17:45:41] "GET /style.css HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 17:45:41] "GET /images%20&%20videos/t2x2.jpg HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 17:45:41] "GET /images%20&%20videos/background.jpg HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 17:45:52] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 17:45:52] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 17:45:52] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 17:45:52] "GET /style.css HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 17:45:58] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 17:45:58] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 17:47:45] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 17:47:45] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 17:47:45] "GET /images%20&%20videos/background.jpg HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 17:47:59] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 17:47:59] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 17:49:37] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 17:49:37] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 17:49:37] "GET /images%20&%20videos/background.jpg HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 17:49:57] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 17:49:57] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 17:49:58] "GET /images%20&%20videos/icon.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 17:49:58] "GET /images%20&%20videos/video.mp4 HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 17:49:58] "GET /images%20&%20videos/t2x2.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 17:49:58] "GET /images%20&%20videos/background.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 17:50:31] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 17:50:31] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 17:50:32] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 17:50:32] "GET /style.css HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 17:50:38] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 17:50:38] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 17:50:42] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 17:50:42] "GET /style.css HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 17:50:58] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 17:50:58] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 17:51:50] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 17:51:50] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 17:51:50] "GET /images%20&%20videos/background.jpg HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 17:52:09] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 17:52:09] "GET /style.css HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 17:53:44] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 17:53:44] "GET /style.css HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 17:53:44] "GET /images%20&%20videos/background.jpg HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 18:06:53] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 18:06:55] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 18:06:56] "GET /images%20&%20videos/icon.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 18:06:56] "GET /images%20&%20videos/background.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 18:06:56] "GET /images%20&%20videos/video.mp4 HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 18:06:56] "GET /images%20&%20videos/t2x2.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 18:06:56] "GET /images%20&%20videos/background.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 18:07:00] "GET /images%20&%20videos/t2x2.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 18:07:00] "GET /images%20&%20videos/video.mp4 HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 18:07:00] "GET /images%20&%20videos/background.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 18:07:00] "GET /images%20&%20videos/background.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 18:07:23] "HEAD / HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 18:07:29] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 18:12:35] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 18:12:35] "GET /style.css HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 18:12:35] "GET /images%20&%20videos/t2x2.jpg HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 18:12:36] "GET /images%20&%20videos/video.mp4 HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 18:12:36] "GET /images%20&%20videos/background.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 18:12:36] "GET /images%20&%20videos/background.jpg HTTP/1.1" 200 -
+----------------------------------------
+Exception occurred during processing of request from ('127.0.0.1', 55140)
+Traceback (most recent call last):
+  File "/usr/lib/python3.13/socketserver.py", line 697, in process_request_thread
+    self.finish_request(request, client_address)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.13/http/server.py", line 1320, in finish_request
+    self.RequestHandlerClass(request, client_address, self,
+    ~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                             directory=args.directory)
+                             ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.13/http/server.py", line 672, in __init__
+    super().__init__(*args, **kwargs)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.13/socketserver.py", line 766, in __init__
+    self.handle()
+    ~~~~~~~~~~~^^
+  File "/usr/lib/python3.13/http/server.py", line 436, in handle
+    self.handle_one_request()
+    ~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "/usr/lib/python3.13/http/server.py", line 424, in handle_one_request
+    method()
+    ~~~~~~^^
+  File "/usr/lib/python3.13/http/server.py", line 679, in do_GET
+    self.copyfile(f, self.wfile)
+    ~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.13/http/server.py", line 881, in copyfile
+    shutil.copyfileobj(source, outputfile)
+    ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.13/shutil.py", line 204, in copyfileobj
+    fdst_write(buf)
+    ~~~~~~~~~~^^^^^
+  File "/usr/lib/python3.13/socketserver.py", line 845, in write
+    self._sock.sendall(b)
+    ~~~~~~~~~~~~~~~~~~^^^
+BrokenPipeError: [Errno 32] Broken pipe
+----------------------------------------
+127.0.0.1 - - [20/Nov/2025 18:15:00] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 18:15:01] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 18:15:03] "GET /images%20&%20videos/video.mp4 HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 18:15:03] "GET /images%20&%20videos/icon.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 18:15:03] "GET /images%20&%20videos/t2x2.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 18:15:03] "GET /images%20&%20videos/background.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 18:15:03] "GET /images%20&%20videos/background.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 18:15:07] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 18:15:09] "GET /images%20&%20videos/video.mp4 HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 18:16:00] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 18:16:01] "GET /images%20&%20videos/video.mp4 HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 18:16:29] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 18:16:30] "GET /images%20&%20videos/video.mp4 HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 18:17:06] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 18:17:07] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 18:17:08] "GET /images%20&%20videos/video.mp4 HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 18:17:08] "GET /images%20&%20videos/icon.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 18:17:09] "GET /images%20&%20videos/background.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 18:17:09] "GET /images%20&%20videos/t2x2.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 18:18:31] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 18:18:44] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 18:18:45] "GET /style.css HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 18:18:47] "GET /images%20&%20videos/video.mp4 HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 18:19:20] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 18:19:21] "GET /images%20&%20videos/video.mp4 HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 18:23:52] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 18:23:52] "GET /style.css HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 18:23:53] "GET /images%20&%20videos/background.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 18:23:55] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 18:27:59] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 18:28:00] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 18:28:01] "GET /images%20&%20videos/icon.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 18:28:01] "GET /images%20&%20videos/t2x2.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 18:28:01] "GET /images%20&%20videos/video.mp4 HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 18:28:01] "GET /images%20&%20videos/background.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 18:28:02] "GET /images%20&%20videos/background.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 18:28:33] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 18:28:34] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 18:28:35] "GET /images%20&%20videos/video.mp4 HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 18:28:35] "GET /images%20&%20videos/icon.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 18:28:36] "GET /images%20&%20videos/background.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 18:28:36] "GET /images%20&%20videos/t2x2.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 18:29:30] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 18:29:51] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 18:30:50] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 18:30:52] "GET /images%20&%20videos/video.mp4 HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 18:33:10] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 18:33:11] "GET /style.css HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 18:33:13] "GET /images%20&%20videos/video.mp4 HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 18:44:21] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 18:44:21] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 18:44:21] "GET /images%20&%20videos/t2x2.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 18:44:22] "GET /images%20&%20videos/video.mp4 HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 18:44:22] "GET /images%20&%20videos/background.jpg HTTP/1.1" 304 -
+127.189.50.78 - - [20/Nov/2025 19:00:48] "GET / HTTP/1.1" 200 -
+127.189.50.78 - - [20/Nov/2025 19:00:50] "GET /style.css HTTP/1.1" 200 -
+127.189.50.78 - - [20/Nov/2025 19:00:52] "GET /images%20&%20videos/icon.jpg HTTP/1.1" 200 -
+127.189.50.78 - - [20/Nov/2025 19:00:52] "GET /images%20&%20videos/t2x2.jpg HTTP/1.1" 200 -
+127.189.50.78 - - [20/Nov/2025 19:00:52] "GET /images%20&%20videos/background.jpg HTTP/1.1" 200 -
+127.189.50.78 - - [20/Nov/2025 19:00:52] "GET /images%20&%20videos/video.mp4 HTTP/1.1" 200 -
+127.189.50.78 - - [20/Nov/2025 19:00:52] "GET /images%20&%20videos/background.jpg HTTP/1.1" 200 -
+127.189.50.78 - - [20/Nov/2025 19:02:23] "GET /images%20&%20videos/video.mp4 HTTP/1.1" 200 -
+127.189.50.78 - - [20/Nov/2025 19:02:23] "GET /images%20&%20videos/background.jpg HTTP/1.1" 200 -
+127.189.50.78 - - [20/Nov/2025 19:03:57] "GET / HTTP/1.1" 200 -
+127.189.50.78 - - [20/Nov/2025 19:03:57] "GET /style.css HTTP/1.1" 200 -
+127.189.50.78 - - [20/Nov/2025 19:03:58] "GET /images%20&%20videos/video.mp4 HTTP/1.1" 200 -
+127.189.50.78 - - [20/Nov/2025 19:03:58] "GET /images%20&%20videos/icon.jpg HTTP/1.1" 200 -
+127.189.50.78 - - [20/Nov/2025 19:03:59] "GET /images%20&%20videos/background.jpg HTTP/1.1" 200 -
+127.189.50.78 - - [20/Nov/2025 19:03:59] "GET /images%20&%20videos/t2x2.jpg HTTP/1.1" 200 -
+127.189.50.78 - - [20/Nov/2025 19:04:17] "GET /images%20&%20videos/video.mp4 HTTP/1.1" 200 -
+----------------------------------------
+Exception occurred during processing of request from ('127.189.50.78', 51287)
+Traceback (most recent call last):
+  File "/usr/lib/python3.13/socketserver.py", line 697, in process_request_thread
+    self.finish_request(request, client_address)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.13/http/server.py", line 1320, in finish_request
+    self.RequestHandlerClass(request, client_address, self,
+    ~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                             directory=args.directory)
+                             ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.13/http/server.py", line 672, in __init__
+    super().__init__(*args, **kwargs)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.13/socketserver.py", line 766, in __init__
+    self.handle()
+    ~~~~~~~~~~~^^
+  File "/usr/lib/python3.13/http/server.py", line 436, in handle
+    self.handle_one_request()
+    ~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "/usr/lib/python3.13/http/server.py", line 424, in handle_one_request
+    method()
+    ~~~~~~^^
+  File "/usr/lib/python3.13/http/server.py", line 679, in do_GET
+    self.copyfile(f, self.wfile)
+    ~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.13/http/server.py", line 881, in copyfile
+    shutil.copyfileobj(source, outputfile)
+    ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.13/shutil.py", line 204, in copyfileobj
+    fdst_write(buf)
+    ~~~~~~~~~~^^^^^
+  File "/usr/lib/python3.13/socketserver.py", line 845, in write
+    self._sock.sendall(b)
+    ~~~~~~~~~~~~~~~~~~^^^
+BrokenPipeError: [Errno 32] Broken pipe
+----------------------------------------
+127.189.50.78 - - [20/Nov/2025 19:04:17] "GET / HTTP/1.1" 304 -
+127.189.50.78 - - [20/Nov/2025 19:04:19] "GET /images%20&%20videos/video.mp4 HTTP/1.1" 200 -
+127.189.50.78 - - [20/Nov/2025 19:06:08] "GET / HTTP/1.1" 304 -
+127.189.50.78 - - [20/Nov/2025 19:06:10] "GET /images%20&%20videos/video.mp4 HTTP/1.1" 200 -
+127.189.50.78 - - [20/Nov/2025 19:13:03] "GET / HTTP/1.1" 200 -
+127.189.50.78 - - [20/Nov/2025 19:13:05] "GET /style.css HTTP/1.1" 200 -
+127.189.50.78 - - [20/Nov/2025 19:13:06] "GET /images%20&%20videos/t2x2.jpg HTTP/1.1" 200 -
+127.189.50.78 - - [20/Nov/2025 19:13:06] "GET /images%20&%20videos/video.mp4 HTTP/1.1" 200 -
+127.189.50.78 - - [20/Nov/2025 19:13:06] "GET /images%20&%20videos/icon.jpg HTTP/1.1" 200 -
+127.189.50.78 - - [20/Nov/2025 19:13:06] "GET /images%20&%20videos/background.jpg HTTP/1.1" 200 -
+127.189.50.78 - - [20/Nov/2025 19:13:07] "GET /images%20&%20videos/background.jpg HTTP/1.1" 200 -
+127.189.50.78 - - [20/Nov/2025 19:25:32] "GET / HTTP/1.1" 304 -
+127.133.128.130 - - [20/Nov/2025 19:25:33] "GET /style.css HTTP/1.1" 304 -
+127.189.50.78 - - [20/Nov/2025 19:25:35] "GET /images%20&%20videos/background.jpg HTTP/1.1" 304 -
+127.189.50.78 - - [20/Nov/2025 19:26:16] code 400, message Bad request version ('ÂÙuÎÿ\\x86!\\x8f\\x909,\\x16È\\x8b$\\x00"\\x13\\x01\\x13\\x03\\x13\\x02À+À/Ì©Ì¨À,À0À')
+127.189.50.78 - - [20/Nov/2025 19:26:16] "\x16\x03\x01\x07o\x01\x00\x07k\x03\x03Vzäë\x05rP\x04>dëaBø\x9a\x14\x85£\x17\x9cY1\x87\x9bn\x01©óê²Ã\x99 °*\x0eùþpÀÄ\x02fQ²ôì\x86\x9a\x1fÂÙuÎÿ\x86!\x8f\x909,\x16È\x8b$\x00"\x13\x01\x13\x03\x13\x02À+À/Ì©Ì¨À,À0À" 400 -
+127.189.50.78 - - [20/Nov/2025 19:26:19] code 400, message Bad request version ('\\x06\\x1b¶G1É\\x9eÆ<\\x8c!Â£\\x0f%wø\\\\kà/\\x9a\\x84U\\x94\\x19\\x81ü\\x9d\\x81ê\\x8c\\x00"\\x13\\x01\\x13\\x03\\x13\\x02À+À/Ì©Ì¨À,À0À')
+127.189.50.78 - - [20/Nov/2025 19:26:19] "\x16\x03\x01\x02\x9e\x01\x00\x02\x9a\x03\x03¬\x15\x9b\x91ê\x98Õ(vP\x95¡ál\x16R\x81d\x0fuOkêÑ?\x85h{¡äi¢ \x06\x1b¶G1É\x9eÆ<\x8c!Â£\x0f%wø\\kà/\x9a\x84U\x94\x19\x81ü\x9d\x81ê\x8c\x00"\x13\x01\x13\x03\x13\x02À+À/Ì©Ì¨À,À0À" 400 -
+127.189.50.78 - - [20/Nov/2025 19:26:22] code 400, message Bad request version ('½Û,\\x04G\\x00"\\x13\\x01\\x13\\x03\\x13\\x02À+À/Ì©Ì¨À,À0À')
+127.189.50.78 - - [20/Nov/2025 19:26:22] "\x16\x03\x01\x07o\x01\x00\x07k\x03\x03\x16p#\x10¿VbP\x06ú\x0c,?\x17\x87ý.\x15\x00\x88\x90¾d¯\x04ê\x18\x9f\x1eQØC pà\x03\x13Ò(\x8aÚàÚæ\x12Qhïì\x1a//·G\x05i\x18\x1c\x06\x1e½Û,\x04G\x00"\x13\x01\x13\x03\x13\x02À+À/Ì©Ì¨À,À0À" 400 -
+127.189.50.78 - - [20/Nov/2025 19:26:24] code 400, message Bad request version ('\\x86ÜD\\x81\\'jë"Í¸{½y"é\\x88\\x00"\\x13\\x01\\x13\\x03\\x13\\x02À+À/Ì©Ì¨À,À0À')
+127.189.50.78 - - [20/Nov/2025 19:26:24] "\x16\x03\x01\x02\x9e\x01\x00\x02\x9a\x03\x03&Uu|(\x95ïøÌµá*E×}\x11æVh=¦C\x817«ëÃB¼©Ç\x9f \x80ÕJÆî\x83rj6ëÌö;\x12\x8f \x86ÜD\x81'jë"Í¸{½y"é\x88\x00"\x13\x01\x13\x03\x13\x02À+À/Ì©Ì¨À,À0À" 400 -
+127.189.50.78 - - [20/Nov/2025 20:12:22] "GET / HTTP/1.1" 304 -
+127.189.50.78 - - [20/Nov/2025 20:12:24] "GET /style.css HTTP/1.1" 304 -
+127.189.50.78 - - [20/Nov/2025 20:12:26] "GET /images%20&%20videos/video.mp4 HTTP/1.1" 304 -
+127.189.50.78 - - [20/Nov/2025 20:12:26] "GET /images%20&%20videos/t2x2.jpg HTTP/1.1" 304 -
+127.189.50.78 - - [20/Nov/2025 20:12:26] "GET /images%20&%20videos/background.jpg HTTP/1.1" 304 -
+127.51.170.27 - - [20/Nov/2025 20:18:04] code 400, message Bad HTTP/0.9 request type ('16\\x00f\\x14G\\x80\\x9b®mÀÙ')
+127.51.170.27 - - [20/Nov/2025 20:18:04] "16\x00f\x14G\x80\x9b®mÀÙ\x1e+\x17³ØJZ" 400 -
+127.189.50.78 - - [20/Nov/2025 20:50:08] "GET / HTTP/1.1" 304 -
+127.189.50.78 - - [20/Nov/2025 20:50:10] "GET /style.css HTTP/1.1" 304 -
+127.189.50.78 - - [20/Nov/2025 20:50:12] "GET /images%20&%20videos/t2x2.jpg HTTP/1.1" 304 -
+127.189.50.78 - - [20/Nov/2025 20:50:12] "GET /images%20&%20videos/video.mp4 HTTP/1.1" 304 -
+127.189.50.78 - - [20/Nov/2025 20:50:12] "GET /images%20&%20videos/background.jpg HTTP/1.1" 304 -
+127.165.101.174 - - [20/Nov/2025 20:50:46] code 404, message File not found
+127.165.101.174 - - [20/Nov/2025 20:50:46] "GET /favicon.ico HTTP/1.1" 404 -
+127.50.246.92 - - [20/Nov/2025 20:50:46] "HEAD / HTTP/1.1" 200 -
+127.196.214.98 - - [20/Nov/2025 20:50:47] "GET / HTTP/1.1" 200 -
+127.224.171.179 - - [20/Nov/2025 20:50:47] "GET / HTTP/1.1" 200 -
+127.134.32.229 - - [20/Nov/2025 20:50:47] "GET / HTTP/1.1" 200 -
+127.95.118.125 - - [20/Nov/2025 20:50:48] "GET / HTTP/1.1" 200 -
+127.101.133.60 - - [20/Nov/2025 20:50:48] "GET / HTTP/1.1" 200 -
+127.95.118.125 - - [20/Nov/2025 20:50:48] "GET /style.css HTTP/1.1" 200 -
+127.95.118.125 - - [20/Nov/2025 20:50:50] "GET /images%20&%20videos/video.mp4 HTTP/1.1" 200 -
+127.95.118.125 - - [20/Nov/2025 20:50:50] "GET /images%20&%20videos/t2x2.jpg HTTP/1.1" 200 -
+127.95.118.125 - - [20/Nov/2025 20:50:50] "GET /images%20&%20videos/background.jpg HTTP/1.1" 200 -
+127.95.118.125 - - [20/Nov/2025 20:50:53] "GET /images%20&%20videos/icon.jpg HTTP/1.1" 200 -
+127.101.8.155 - - [20/Nov/2025 20:52:47] "GET / HTTP/1.1" 200 -
+127.101.8.155 - - [20/Nov/2025 20:52:50] "GET /style.css HTTP/1.1" 200 -
+127.101.8.155 - - [20/Nov/2025 20:52:50] "GET /images%20&%20videos/t2x2.jpg HTTP/1.1" 200 -
+127.101.8.155 - - [20/Nov/2025 20:52:52] "GET /images%20&%20videos/background.jpg HTTP/1.1" 200 -
+127.189.50.78 - - [20/Nov/2025 21:05:24] "GET / HTTP/1.1" 304 -
+127.189.50.78 - - [20/Nov/2025 21:14:26] "GET /style.css HTTP/1.1" 304 -
+127.189.50.78 - - [20/Nov/2025 21:14:27] "GET /images%20&%20videos/background.jpg HTTP/1.1" 304 -
+127.189.50.78 - - [20/Nov/2025 21:36:45] "GET / HTTP/1.1" 304 -
+127.189.50.78 - - [20/Nov/2025 21:36:47] "GET /style.css HTTP/1.1" 304 -
+127.189.50.78 - - [20/Nov/2025 21:36:49] "GET /images%20&%20videos/t2x2.jpg HTTP/1.1" 200 -
+127.189.50.78 - - [20/Nov/2025 21:36:49] "GET /images%20&%20videos/video.mp4 HTTP/1.1" 304 -
+127.54.60.214 - - [20/Nov/2025 21:37:58] "GET / HTTP/1.1" 200 -
+127.189.50.78 - - [20/Nov/2025 21:38:36] "GET / HTTP/1.1" 200 -
+127.189.50.78 - - [20/Nov/2025 21:38:38] "GET /images%20&%20videos/background.jpg HTTP/1.1" 304 -
+127.189.50.78 - - [20/Nov/2025 21:38:39] "GET / HTTP/1.1" 304 -
+127.189.50.78 - - [20/Nov/2025 21:39:53] "GET / HTTP/1.1" 304 -
+127.189.50.78 - - [20/Nov/2025 21:39:58] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 21:44:02] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 21:44:03] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 21:44:04] "GET /images%20&%20videos/background.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 21:44:05] "GET /images%20&%20videos/background.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 21:44:08] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 21:44:13] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 21:44:13] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 21:44:14] "GET /images%20&%20videos/icon.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 21:44:14] "GET /images%20&%20videos/video.mp4 HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 21:44:15] "GET /images%20&%20videos/background.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 21:44:15] "GET /images%20&%20videos/t2x2.jpg HTTP/1.1" 200 -
+127.100.103.250 - - [20/Nov/2025 21:47:20] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 21:49:59] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 21:49:59] "GET /style.css HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 21:50:00] "GET /images%20&%20videos/t2x2.jpg HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 21:50:00] "GET /images%20&%20videos/video.mp4 HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 21:50:00] "GET /images%20&%20videos/background.jpg HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 21:52:19] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 21:52:19] "GET /style.css HTTP/1.1" 200 -
+----------------------------------------
+Exception occurred during processing of request from ('127.0.0.1', 46182)
+Traceback (most recent call last):
+  File "/usr/lib/python3.13/socketserver.py", line 697, in process_request_thread
+    self.finish_request(request, client_address)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.13/http/server.py", line 1320, in finish_request
+    self.RequestHandlerClass(request, client_address, self,
+    ~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                             directory=args.directory)
+                             ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.13/http/server.py", line 672, in __init__
+    super().__init__(*args, **kwargs)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.13/socketserver.py", line 766, in __init__
+    self.handle()
+    ~~~~~~~~~~~^^
+  File "/usr/lib/python3.13/http/server.py", line 436, in handle
+    self.handle_one_request()
+    ~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "/usr/lib/python3.13/http/server.py", line 424, in handle_one_request
+    method()
+    ~~~~~~^^
+  File "/usr/lib/python3.13/http/server.py", line 679, in do_GET
+    self.copyfile(f, self.wfile)
+    ~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.13/http/server.py", line 881, in copyfile
+    shutil.copyfileobj(source, outputfile)
+    ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.13/shutil.py", line 204, in copyfileobj
+    fdst_write(buf)
+    ~~~~~~~~~~^^^^^
+  File "/usr/lib/python3.13/socketserver.py", line 845, in write
+    self._sock.sendall(b)
+    ~~~~~~~~~~~~~~~~~~^^^
+BrokenPipeError: [Errno 32] Broken pipe
+----------------------------------------
+127.0.0.1 - - [20/Nov/2025 21:52:19] "GET /images%20&%20videos/video_2.mp4 HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 21:52:19] "GET /images%20&%20videos/video_3.mp4 HTTP/1.1" 200 -
+127.0.0.1 - - [20/Nov/2025 21:52:19] "GET /images%20&%20videos/icon.jpg HTTP/1.1" 200 -
+----------------------------------------
+Exception occurred during processing of request from ('127.0.0.1', 46208)
+Traceback (most recent call last):
+  File "/usr/lib/python3.13/socketserver.py", line 697, in process_request_thread
+    self.finish_request(request, client_address)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.13/http/server.py", line 1320, in finish_request
+    self.RequestHandlerClass(request, client_address, self,
+    ~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                             directory=args.directory)
+                             ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.13/http/server.py", line 672, in __init__
+    super().__init__(*args, **kwargs)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.13/socketserver.py", line 766, in __init__
+    self.handle()
+    ~~~~~~~~~~~^^
+  File "/usr/lib/python3.13/http/server.py", line 436, in handle
+    self.handle_one_request()
+    ~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "/usr/lib/python3.13/http/server.py", line 424, in handle_one_request
+    method()
+    ~~~~~~^^
+  File "/usr/lib/python3.13/http/server.py", line 679, in do_GET
+    self.copyfile(f, self.wfile)
+    ~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.13/http/server.py", line 881, in copyfile
+    shutil.copyfileobj(source, outputfile)
+    ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.13/shutil.py", line 204, in copyfileobj
+    fdst_write(buf)
+    ~~~~~~~~~~^^^^^
+  File "/usr/lib/python3.13/socketserver.py", line 845, in write
+    self._sock.sendall(b)
+    ~~~~~~~~~~~~~~~~~~^^^
+BrokenPipeError: [Errno 32] Broken pipe
+----------------------------------------
+127.0.0.1 - - [20/Nov/2025 22:12:11] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [20/Nov/2025 22:12:12] "GET / HTTP/1.1" 304 -
+/usr/bin/python: Error while finding module specification for 'https.server' (ModuleNotFoundError: No module named 'https')
+/usr/bin/python: Error while finding module specification for 'https.server' (ModuleNotFoundError: No module named 'https')
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "/usr/lib/python3.13/http/server.py", line 1323, in <module>
+    test(
+    ~~~~^
+        HandlerClass=handler_class,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+        protocol=args.protocol,
+        ^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/usr/lib/python3.13/http/server.py", line 1270, in test
+    with ServerClass(addr, HandlerClass) as httpd:
+         ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.13/socketserver.py", line 457, in __init__
+    self.server_bind()
+    ~~~~~~~~~~~~~~~~^^
+  File "/usr/lib/python3.13/http/server.py", line 1317, in server_bind
+    return super().server_bind()
+           ~~~~~~~~~~~~~~~~~~~^^
+  File "/usr/lib/python3.13/http/server.py", line 136, in server_bind
+    socketserver.TCPServer.server_bind(self)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "/usr/lib/python3.13/socketserver.py", line 478, in server_bind
+    self.socket.bind(self.server_address)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^
+OSError: [Errno 98] Address already in use
+Serving HTTP on 0.0.0.0 port 8080 (http://0.0.0.0:8080/) ...
+
+Keyboard interrupt received, exiting.
+127.0.0.1 - - [21/Nov/2025 08:49:33] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 08:49:33] "GET /style.css HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 08:49:33] "GET /images%20&%20videos/cube.mp4 HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 08:49:33] "GET /images%20&%20videos/background.jpg HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 08:49:33] "GET /images%20&%20videos/background.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 08:50:13] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 08:50:21] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 08:51:30] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 08:51:45] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 08:51:46] "GET /images%20&%20videos/cube.mkv HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 08:51:50] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 08:51:50] code 404, message File not found
+127.0.0.1 - - [21/Nov/2025 08:51:50] "GET /images%20&%20videos/cube.mp4 HTTP/1.1" 404 -
+127.0.0.1 - - [21/Nov/2025 08:53:51] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 08:53:51] "GET /images%20&%20videos/cube.mp4 HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 08:56:09] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 08:56:10] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 08:56:26] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 08:56:26] "GET /images%20&%20videos/cube.mp4 HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 08:56:48] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 08:56:48] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 08:56:48] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 08:58:43] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 08:58:43] "GET /images%20&%20videos/cube.mp4 HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 08:58:48] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 08:59:21] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 08:59:21] "GET /images%20&%20videos/cube.mp4 HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 08:59:24] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 08:59:33] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 09:00:17] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 09:00:18] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 09:00:51] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 09:00:51] "GET /images%20&%20videos/cube.mp4 HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 09:01:51] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 09:01:52] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 09:01:55] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 09:01:57] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 09:02:32] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 09:02:32] "GET /images%20&%20videos/cube.mp4 HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 09:04:08] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 09:04:12] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 09:05:37] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 09:05:38] "GET /images%20&%20videos/cube.mp4 HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 09:05:38] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 09:05:38] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 09:05:39] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 09:05:39] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 09:05:39] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 09:05:40] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 09:05:40] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 09:05:40] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 09:06:39] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 09:06:39] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 09:06:40] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 09:06:40] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 09:06:40] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 09:06:41] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 09:06:42] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 09:06:42] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 09:06:42] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 09:06:42] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 09:06:42] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 09:06:43] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 09:06:43] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 09:07:04] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 09:07:04] "GET /images%20&%20videos/cube.mp4 HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 09:07:55] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 09:08:24] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 09:08:37] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 09:08:46] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 09:10:08] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 09:10:08] "GET /images%20&%20videos/cube.mp4 HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 09:11:02] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 09:11:03] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 09:13:19] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 09:13:19] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 09:13:19] "GET /images%20&%20videos/icon.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 09:13:19] "GET /images%20&%20videos/cube.mp4 HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 09:13:19] "GET /images%20&%20videos/background.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 09:14:36] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 09:14:36] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 09:14:47] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 09:14:47] "GET /style.css HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 09:15:17] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 09:15:17] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 09:15:17] "GET /images%20&%20videos/cube.mp4 HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 09:15:25] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 09:15:25] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 09:15:26] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 09:15:26] "GET /style.css HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 09:15:32] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 09:15:32] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 09:16:21] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 09:16:21] "GET /images%20&%20videos/cube.mp4 HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 09:16:26] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 09:16:26] "GET /style.css HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 09:16:45] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 09:16:45] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 09:18:10] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 09:18:10] "GET /style.css HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 09:18:10] "GET /images%20&%20videos/cube.mp4 HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 09:18:10] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 09:19:24] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 09:19:24] "GET /style.css HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 09:20:58] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 09:20:58] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 09:21:07] "GET /style.css HTTP/1.1" 200 -
+----------------------------------------
+Exception occurred during processing of request from ('127.0.0.1', 38860)
+Traceback (most recent call last):
+  File "/usr/lib/python3.13/socketserver.py", line 697, in process_request_thread
+    self.finish_request(request, client_address)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.13/http/server.py", line 1320, in finish_request
+    self.RequestHandlerClass(request, client_address, self,
+    ~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                             directory=args.directory)
+                             ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.13/http/server.py", line 672, in __init__
+    super().__init__(*args, **kwargs)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.13/socketserver.py", line 766, in __init__
+    self.handle()
+    ~~~~~~~~~~~^^
+  File "/usr/lib/python3.13/http/server.py", line 436, in handle
+    self.handle_one_request()
+    ~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "/usr/lib/python3.13/http/server.py", line 424, in handle_one_request
+    method()
+    ~~~~~~^^
+  File "/usr/lib/python3.13/http/server.py", line 679, in do_GET
+    self.copyfile(f, self.wfile)
+    ~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.13/http/server.py", line 881, in copyfile
+    shutil.copyfileobj(source, outputfile)
+    ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.13/shutil.py", line 204, in copyfileobj
+    fdst_write(buf)
+    ~~~~~~~~~~^^^^^
+  File "/usr/lib/python3.13/socketserver.py", line 845, in write
+    self._sock.sendall(b)
+    ~~~~~~~~~~~~~~~~~~^^^
+BrokenPipeError: [Errno 32] Broken pipe
+----------------------------------------
+127.0.0.1 - - [21/Nov/2025 09:21:36] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 09:21:36] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 09:21:51] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 09:21:51] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 09:21:51] "GET /images%20&%20videos/cube.mp4 HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 09:22:00] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 09:22:00] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 09:22:09] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 09:22:09] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 09:22:41] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 09:22:52] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 09:22:52] "GET /style.css HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 09:22:57] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 09:22:58] "GET /style.css HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 09:24:05] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 09:24:05] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 09:24:25] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 09:24:25] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 09:24:45] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 09:24:45] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 09:24:46] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 09:24:46] "GET /style.css HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 09:24:46] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 09:24:46] "GET /style.css HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 09:24:51] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 09:24:51] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 09:25:10] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 09:25:10] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 09:25:10] "GET /images%20&%20videos/cube.mp4 HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 09:25:36] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 09:25:36] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 09:25:37] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 09:25:37] "GET /style.css HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 09:25:37] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 09:25:37] "GET /style.css HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 09:25:37] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 09:25:37] "GET /style.css HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 09:25:43] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 09:25:43] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 09:25:46] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 09:25:46] "GET /images%20&%20videos/cube.mp4 HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 09:25:54] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 09:25:54] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 09:26:04] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 09:26:04] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 09:29:24] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 09:29:24] "GET /style.css HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 09:29:24] "GET /images%20&%20videos/cube.mp4 HTTP/1.1" 304 -
+127.61.5.90 - - [21/Nov/2025 12:44:16] "GET / HTTP/1.1" 200 -
+127.61.5.90 - - [21/Nov/2025 12:44:17] "GET /style.css HTTP/1.1" 200 -
+127.61.5.90 - - [21/Nov/2025 12:44:18] "GET /images%20&%20videos/icon.jpg HTTP/1.1" 200 -
+127.61.5.90 - - [21/Nov/2025 12:44:18] "GET /images%20&%20videos/cube.mp4 HTTP/1.1" 200 -
+127.61.5.90 - - [21/Nov/2025 12:44:19] "GET /images%20&%20videos/background.jpg HTTP/1.1" 200 -
+127.61.5.90 - - [21/Nov/2025 12:44:19] "GET /images%20&%20videos/background.jpg HTTP/1.1" 200 -
+127.61.5.90 - - [21/Nov/2025 12:45:08] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 12:47:57] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 12:47:57] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 12:47:57] "GET /images%20&%20videos/background.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 12:47:57] "GET /images%20&%20videos/background.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 12:47:57] "GET /images%20&%20videos/icon.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 12:47:57] "GET /images%20&%20videos/cube.mp4 HTTP/1.1" 200 -
+127.61.5.90 - - [21/Nov/2025 12:49:34] code 400, message Bad request version ('15243')
+127.61.5.90 - - [21/Nov/2025 12:49:34] "PROXY TCP6 2a09:bac1:61c0:60::388:4b 2602:fbaf:834:1::10 51130 15243" 400 -
+127.61.5.90 - - [21/Nov/2025 12:49:35] code 400, message Bad request version ('15243')
+127.61.5.90 - - [21/Nov/2025 12:49:35] "PROXY TCP6 2a09:bac1:61c0:60::388:4b 2602:fbaf:834:1::10 51142 15243" 400 -
+127.61.5.90 - - [21/Nov/2025 12:49:44] "GET / HTTP/1.1" 200 -
+127.61.5.90 - - [21/Nov/2025 12:51:03] "GET / HTTP/1.1" 200 -
+127.61.5.90 - - [21/Nov/2025 12:51:19] "GET / HTTP/1.1" 200 -
+127.61.5.90 - - [21/Nov/2025 12:52:16] "GET / HTTP/1.1" 200 -
+127.61.5.90 - - [21/Nov/2025 12:56:21] "GET / HTTP/1.1" 200 -
+127.173.8.193 - - [21/Nov/2025 13:01:31] "GET / HTTP/1.1" 200 -
+127.173.8.193 - - [21/Nov/2025 13:01:31] "GET /style.css HTTP/1.1" 200 -
+127.173.8.193 - - [21/Nov/2025 13:01:33] "GET /images%20&%20videos/cube.mp4 HTTP/1.1" 200 -
+127.173.8.193 - - [21/Nov/2025 13:01:33] "GET /images%20&%20videos/background.jpg HTTP/1.1" 200 -
+127.173.8.193 - - [21/Nov/2025 13:01:40] code 404, message File not found
+127.173.8.193 - - [21/Nov/2025 13:01:40] "GET /favicon.ico HTTP/1.1" 404 -
+127.173.8.193 - - [21/Nov/2025 13:01:52] "GET /images%20&%20videos/background.jpg HTTP/1.1" 200 -
+127.173.8.193 - - [21/Nov/2025 13:01:52] "GET /images%20&%20videos/cube.mp4 HTTP/1.1" 200 -
+127.173.8.193 - - [21/Nov/2025 13:01:54] "GET /images%20&%20videos/icon.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 13:11:06] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 13:11:06] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 13:11:06] "GET /images%20&%20videos/cube.mp4 HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 13:11:06] "GET /images%20&%20videos/background.jpg HTTP/1.1" 304 -
+127.61.5.90 - - [21/Nov/2025 13:17:54] "GET / HTTP/1.1" 200 -
+127.61.5.90 - - [21/Nov/2025 13:17:56] "GET /style.css HTTP/1.1" 304 -
+127.61.5.90 - - [21/Nov/2025 13:18:39] "GET / HTTP/1.1" 200 -
+127.61.5.90 - - [21/Nov/2025 13:18:41] "GET /images%20&%20videos/cube.mp4 HTTP/1.1" 304 -
+127.61.5.90 - - [21/Nov/2025 13:18:49] "GET / HTTP/1.1" 200 -
+127.61.5.90 - - [21/Nov/2025 13:20:42] "GET / HTTP/1.1" 200 -
+127.61.5.90 - - [21/Nov/2025 13:20:44] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 13:20:51] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 13:21:46] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 13:21:56] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 13:22:53] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 13:22:53] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 13:25:36] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 13:25:36] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 13:25:50] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 13:25:51] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 13:25:51] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 13:25:52] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 13:25:52] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 13:25:52] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 13:25:52] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 13:25:52] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 13:25:52] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 13:25:53] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 13:26:33] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 13:26:34] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 13:27:07] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 13:27:07] "GET /images%20&%20videos/background.mp4 HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 13:28:05] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 13:28:05] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 13:28:20] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 13:28:21] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 13:29:26] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 13:29:26] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 13:29:26] code 404, message File not found
+127.0.0.1 - - [21/Nov/2025 13:29:26] "GET /images%20&%20videos/background.jpg HTTP/1.1" 404 -
+127.0.0.1 - - [21/Nov/2025 13:31:47] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 13:32:13] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 13:35:45] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 13:35:45] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 13:35:46] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 13:35:47] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 13:35:47] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 13:35:48] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 13:35:48] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 13:35:48] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 13:35:48] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 13:35:49] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 13:35:49] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 13:35:49] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 13:35:49] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 13:35:49] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 13:35:50] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 13:35:50] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 13:35:54] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 13:35:54] "GET /style.css HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 13:36:28] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 13:36:29] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 13:36:30] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 13:36:31] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 13:37:27] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 13:37:27] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 13:37:27] "GET /images%20&%20videos/icon.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 13:37:27] "GET /images%20&%20videos/cube.mp4 HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 13:37:27] "GET /images%20&%20videos/background.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 13:38:24] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 13:38:24] "GET /style.css HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 13:38:24] "GET /images%20&%20videos/background.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 13:38:24] "GET /images%20&%20videos/icon.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 13:38:56] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 13:38:56] "GET /style.css HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 13:38:56] "GET /images%20&%20videos/background.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 13:39:16] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 13:39:17] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 13:39:17] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 13:39:18] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 13:39:18] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 13:39:22] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 13:39:22] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 13:39:22] "GET /images%20&%20videos/icon.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 13:39:22] "GET /images%20&%20videos/background.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 13:39:46] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 13:39:48] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 13:39:48] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 13:39:48] "GET /images%20&%20videos/icon.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 13:39:48] "GET /images%20&%20videos/background.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 13:40:15] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 13:40:16] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 13:40:17] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 13:40:18] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 13:40:18] "GET /images%20&%20videos/icon.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 13:40:18] "GET /images%20&%20videos/background.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 13:40:26] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 13:40:26] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 13:40:27] "GET /images%20&%20videos/icon.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 13:40:27] "GET /images%20&%20videos/background.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 13:40:45] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 13:40:45] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 13:40:45] "GET /images%20&%20videos/background.jpg HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 13:41:00] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 13:41:00] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 13:41:00] "GET /images%20&%20videos/background.jpg HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 13:41:01] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 13:41:01] "GET /style.css HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 13:41:44] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 13:41:44] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 13:41:44] "GET /images%20&%20videos/background.jpg HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 13:41:47] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 13:41:47] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 13:41:48] "GET /images%20&%20videos/icon.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 13:41:48] "GET /images%20&%20videos/background.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 13:41:57] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 13:41:57] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 13:41:57] "GET /images%20&%20videos/icon.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 13:41:58] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 13:41:58] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 13:41:59] "GET /images%20&%20videos/icon.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 13:41:59] "GET /images%20&%20videos/background.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 13:42:08] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 13:42:08] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 13:42:35] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 13:42:36] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 13:42:36] "GET /images%20&%20videos/background.jpg HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 13:42:36] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 13:42:36] "GET /style.css HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 13:42:40] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 13:42:40] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 13:42:49] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 13:42:50] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 13:42:55] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 13:42:55] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 13:42:55] "GET /images%20&%20videos/background.jpg HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 13:43:00] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 13:43:00] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 13:43:06] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 13:43:06] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 13:43:10] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 13:43:10] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 13:43:14] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 13:43:14] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 13:43:15] "GET /images%20&%20videos/background.jpg HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 13:43:21] "GET /style.css HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 13:43:26] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 13:43:26] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 13:43:31] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 13:43:31] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 13:43:50] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 13:43:50] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 13:43:50] "GET /images%20&%20videos/background.jpg HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 13:44:03] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 13:44:03] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 13:44:27] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 13:44:27] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 13:44:27] "GET /images%20&%20videos/background.jpg HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 13:44:31] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 13:44:31] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 13:44:46] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 13:44:46] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 13:44:51] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 13:44:51] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 13:45:08] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 13:45:08] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 13:45:08] "GET /images%20&%20videos/background.jpg HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 13:45:12] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 13:45:12] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 13:45:16] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 13:45:16] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 13:45:20] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 13:45:20] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 13:45:23] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 13:45:23] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 13:45:54] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 13:45:54] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 13:45:54] "GET /images%20&%20videos/background.jpg HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 13:45:54] "GET /images%20&%20videos/icon.jpg HTTP/1.1" 200 -
+----------------------------------------
+Exception occurred during processing of request from ('127.0.0.1', 51696)
+Traceback (most recent call last):
+  File "/usr/lib/python3.13/socketserver.py", line 697, in process_request_thread
+    self.finish_request(request, client_address)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.13/http/server.py", line 1320, in finish_request
+    self.RequestHandlerClass(request, client_address, self,
+    ~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                             directory=args.directory)
+                             ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.13/http/server.py", line 672, in __init__
+    super().__init__(*args, **kwargs)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.13/socketserver.py", line 766, in __init__
+    self.handle()
+    ~~~~~~~~~~~^^
+  File "/usr/lib/python3.13/http/server.py", line 436, in handle
+    self.handle_one_request()
+    ~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "/usr/lib/python3.13/http/server.py", line 424, in handle_one_request
+    method()
+    ~~~~~~^^
+  File "/usr/lib/python3.13/http/server.py", line 679, in do_GET
+    self.copyfile(f, self.wfile)
+    ~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.13/http/server.py", line 881, in copyfile
+    shutil.copyfileobj(source, outputfile)
+    ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.13/shutil.py", line 204, in copyfileobj
+    fdst_write(buf)
+    ~~~~~~~~~~^^^^^
+  File "/usr/lib/python3.13/socketserver.py", line 845, in write
+    self._sock.sendall(b)
+    ~~~~~~~~~~~~~~~~~~^^^
+BrokenPipeError: [Errno 32] Broken pipe
+----------------------------------------
+127.0.0.1 - - [21/Nov/2025 13:45:55] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 13:45:55] "GET /style.css HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 13:46:03] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 13:46:03] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 13:46:13] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 13:46:13] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 13:46:27] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 13:46:27] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 13:46:28] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 13:46:28] "GET /style.css HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 13:46:45] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 13:46:45] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 13:46:45] "GET /images%20&%20videos/background.jpg HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 13:46:56] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 13:46:56] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 13:47:05] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 13:47:06] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 13:47:16] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 13:47:16] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 13:47:23] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 13:47:23] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 13:47:31] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 13:47:31] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 13:47:31] "GET /images%20&%20videos/background.jpg HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 13:47:55] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 13:47:55] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 13:48:04] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 13:48:04] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 13:48:13] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 13:48:13] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 13:48:38] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 13:48:38] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 13:48:38] "GET /images%20&%20videos/background.jpg HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 13:48:45] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 13:48:45] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 13:49:09] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 13:49:09] "GET /style.css HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 13:49:12] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 13:49:12] "GET /style.css HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 13:49:28] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 13:49:29] "GET /style.css HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 13:49:44] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 13:49:44] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 13:49:44] "GET /images%20&%20videos/background.jpg HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 13:49:50] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 13:49:50] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 13:50:01] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 13:50:01] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 13:50:06] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 13:50:06] "GET /style.css HTTP/1.1" 200 -
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "/usr/lib/python3.13/http/server.py", line 1323, in <module>
+    test(
+    ~~~~^
+        HandlerClass=handler_class,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+        protocol=args.protocol,
+        ^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/usr/lib/python3.13/http/server.py", line 1270, in test
+    with ServerClass(addr, HandlerClass) as httpd:
+         ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.13/socketserver.py", line 457, in __init__
+    self.server_bind()
+    ~~~~~~~~~~~~~~~~^^
+  File "/usr/lib/python3.13/http/server.py", line 1317, in server_bind
+    return super().server_bind()
+           ~~~~~~~~~~~~~~~~~~~^^
+  File "/usr/lib/python3.13/http/server.py", line 136, in server_bind
+    socketserver.TCPServer.server_bind(self)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "/usr/lib/python3.13/socketserver.py", line 478, in server_bind
+    self.socket.bind(self.server_address)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^
+OSError: [Errno 98] Address already in use
+127.0.0.1 - - [21/Nov/2025 13:54:05] "GET /images%20&%20videos/icon.jpg HTTP/1.1" 200 -
+----------------------------------------
+Exception occurred during processing of request from ('127.0.0.1', 53364)
+Traceback (most recent call last):
+  File "/usr/lib/python3.13/socketserver.py", line 697, in process_request_thread
+    self.finish_request(request, client_address)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.13/http/server.py", line 1320, in finish_request
+    self.RequestHandlerClass(request, client_address, self,
+    ~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                             directory=args.directory)
+                             ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.13/http/server.py", line 672, in __init__
+    super().__init__(*args, **kwargs)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.13/socketserver.py", line 766, in __init__
+    self.handle()
+    ~~~~~~~~~~~^^
+  File "/usr/lib/python3.13/http/server.py", line 436, in handle
+    self.handle_one_request()
+    ~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "/usr/lib/python3.13/http/server.py", line 424, in handle_one_request
+    method()
+    ~~~~~~^^
+  File "/usr/lib/python3.13/http/server.py", line 679, in do_GET
+    self.copyfile(f, self.wfile)
+    ~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.13/http/server.py", line 881, in copyfile
+    shutil.copyfileobj(source, outputfile)
+    ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.13/shutil.py", line 204, in copyfileobj
+    fdst_write(buf)
+    ~~~~~~~~~~^^^^^
+  File "/usr/lib/python3.13/socketserver.py", line 845, in write
+    self._sock.sendall(b)
+    ~~~~~~~~~~~~~~~~~~^^^
+BrokenPipeError: [Errno 32] Broken pipe
+----------------------------------------
+127.172.221.42 - - [21/Nov/2025 13:54:43] "GET / HTTP/1.1" 200 -
+127.172.221.42 - - [21/Nov/2025 13:54:45] "GET /style.css HTTP/1.1" 200 -
+127.172.221.42 - - [21/Nov/2025 13:54:46] "GET /images%20&%20videos/cube.mp4 HTTP/1.1" 304 -
+127.71.228.203 - - [21/Nov/2025 13:55:19] "GET / HTTP/1.1" 200 -
+127.71.228.203 - - [21/Nov/2025 13:55:21] "GET /images%20&%20videos/cube.mp4 HTTP/1.1" 200 -
+127.71.228.203 - - [21/Nov/2025 13:55:21] "GET /style.css HTTP/1.1" 200 -
+127.71.228.203 - - [21/Nov/2025 13:55:23] "GET /images%20&%20videos/background.jpg HTTP/1.1" 200 -
+127.71.228.203 - - [21/Nov/2025 13:55:30] "GET /images%20&%20videos/icon.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [21/Nov/2025 13:55:47] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 13:55:47] "GET /style.css HTTP/1.1" 304 -
+127.0.0.1 - - [21/Nov/2025 13:55:47] "GET /images%20&%20videos/background.jpg HTTP/1.1" 304 -
