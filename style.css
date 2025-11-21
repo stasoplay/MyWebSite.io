@@ -6,6 +6,50 @@
     box-sizing: border-box;
 }
 
+@keyframes fadeInY {
+  from {
+    opacity: 0;
+    transform: translateY(-100%);
+  }
+  16% {
+		transform: translateY(10%);
+	}
+
+	28% {
+		transform: translateY(-3%);
+	}
+
+	44% {
+		transform: translateY(2%);
+	}
+
+	59% {
+		transform: translateY(-2%);
+	}
+
+	73% {
+		transform: translateY(1%);
+	}
+
+	88% {
+		transform: translateY(-1%);
+	}
+
+    to {
+    opacity: 1;
+    transform: translateY(0%);
+  }
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
 body {
     background: 
         linear-gradient(to top, #000000, transparent),
@@ -18,13 +62,13 @@ main {
 }
 
 aside {
-    position: absolute;
-    right: 20px;
-    top: 60%; /* Отступ сверху */
-    width: 500px;
-    background-color: rgba(0,0,0,0.3); /* Более тёмный */
+    /* position: absolute; */
+    margin: auto;
+    margin-top: 100px;
+    width: 700px;
+    background-color: rgba(0,0,0,0.3);
     border-radius: 30px;
-    padding: 20px;
+    padding: 30px;
 }
 
 footer {
@@ -59,4 +103,53 @@ p {
     margin-left: auto;
     margin-right: auto;
     text-align: center;
+}
+
+/* Для телефонов */
+@media (max-width: 1280px) {
+    body {
+        overflow-x: hidden; /* Убрать горизонтальный скролл */
+    }
+    
+    p, h1, aside, main {
+        word-wrap: break-word; /* Переносить длинные слова */
+        max-width: 100%; /* Не вылазить за экран */
+    }
+    
+    p {
+        font-size: 40%;
+        line-height: 1.4; /* Междустрочный интервал */
+    }
+    
+    h1 {
+        font-size: 16px;
+        margin: 10px !important;
+        padding: 15px !important;
+    }
+    
+    aside {
+        margin: 0 auto;
+        border-radius: 15px;
+        width: 70%;
+    }
+    
+    main {
+        margin-right: 0 !important; /* Убрать отступ для aside */
+    }
+
+    footer {
+        padding: 20px 0 !important;
+        font-size: 10px;
+        margin-top: 20px !important;
+    }
+}
+
+.animated-text {
+  opacity: 0;
+  animation: fadeInY 1.2s ease-out forwards;
+}
+
+.fadein-text {
+  opacity: 0;
+  animation: fadeIn 3s ease-out forwards;
 }
