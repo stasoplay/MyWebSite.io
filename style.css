@@ -44,9 +44,20 @@
 @keyframes fadeIn {
   from {
     opacity: 0;
+    scale: 1.1;
   }
   to {
     opacity: 1;
+    scale: 1;
+  }
+}
+
+@keyframes fadeInReverse {
+  from {
+    opacity: 1;
+  }
+  to {
+    opacity: 0;
   }
 }
 
@@ -56,19 +67,78 @@ body {
         url('images & videos/background.jpg') center/cover no-repeat fixed;
 }
 
+.top {
+    animation: Top 1.5s cubic-bezier(0.5, 0, 0.75, 0) forwards;
+    background-color: #000000;
+    padding: 30vh 1000px;
+    position: fixed;
+    transform: translateY(-100px);
+    z-index: 2;
+}
+
+.bottom {
+    animation: Bottom 1.5s cubic-bezier(0.5, 0, 0.75, 0) forwards;
+    background-color: #000000;
+    padding: 30vh 1000px;
+    position: fixed;
+    transform: translateY(400px);
+    z-index: 2;
+}
+
+.white {
+  animation: fadeInReverse 1.5s cubic-bezier(0.5, 0, 0.75, 0) forwards;
+  background: white;
+  padding: 100vh;
+  position: fixed;
+  transform: translateY(-50px);
+  z-index: -1;
+}
+
+@keyframes Top {
+  to {
+    transform: translateY(-750px);
+  }
+}
+
+@keyframes Bottom {
+  to {
+    transform: translateY(1050px);
+  }
+}
+
+@keyframes Rotate360 {
+  to {
+    transform: rotate(360deg);
+  }
+}
 
 main {
-    margin-right: 560px;
+    overflow: auto;
+    float: left;
+    max-width: 600px;
+    text-align: justify;
+    margin-top: 100px;
+    background: rgba(0,0,0,0.3);
+    border-radius: 30px;
 }
 
 aside {
-    /* position: absolute; */
-    margin: auto;
+    float: right;
+    margin-right: 30px;
     margin-top: 100px;
-    width: 700px;
+    width: 500px;
     background-color: rgba(0,0,0,0.3);
     border-radius: 30px;
-    padding: 30px;
+    padding: 30px 0;
+    border: 2px solid rgba(255,255,255,0.1);
+}
+
+h3 {
+    font-weight: 900;
+}
+
+h2 {
+  margin: 20px 0 0 20px;
 }
 
 footer {
@@ -86,70 +156,72 @@ video, img {
 
 h1 {
     margin: 20px 500px;
-    font-size: 40px;
+    font-size: 3vw;
     text-align: center;
-    color: #faf;
-    border: 10px outset rgba(255,200,255,0.5);
+    color: #fff;
+    border: 5px outset rgba(255,255,255,0.5);
     padding: 30px;
     border-radius: 10px;
 }
 
 p {
     margin: 15px;
-}
-
-.center {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    text-align: center;
+    line-height: 30px;
 }
 
 /* Для телефонов */
-@media (max-width: 1280px) {
-    body {
-        overflow-x: hidden; /* Убрать горизонтальный скролл */
+@media (max-width: 1200px) {
+
+    main {
+      margin: 20vw;
+      text-align: center;
+      float: center;
     }
-    
-    p, h1, aside, main {
-        word-wrap: break-word; /* Переносить длинные слова */
-        max-width: 100%; /* Не вылазить за экран */
-    }
-    
+
     p {
-        font-size: 40%;
-        line-height: 1.4; /* Междустрочный интервал */
+        font-size: 1em;
+        line-height: 30px;
     }
     
     h1 {
-        font-size: 16px;
-        margin: 10px !important;
-        padding: 15px !important;
+        font-size: 50px;
+        line-height: 10vh;
+        margin: 30px 20vw;
+        padding: 20px 0;
     }
     
     aside {
-        margin: 0 auto;
         border-radius: 15px;
         width: 70%;
-    }
-    
-    main {
-        margin-right: 0 !important; /* Убрать отступ для aside */
+        margin: 15%;
     }
 
     footer {
-        padding: 20px 0 !important;
-        font-size: 10px;
-        margin-top: 20px !important;
+        padding-top: 40vh;
     }
+    
 }
 
 .animated-text {
   opacity: 0;
   animation: fadeInY 1.5s ease-out forwards;
+  animation-delay: 1.5s;
 }
 
 .fadein-text {
   opacity: 0;
-  animation: fadeIn 3s ease-out forwards;
+  animation: fadeIn 1s cubic-bezier(0.22, 1, 0.36, 1) forwards;
+  animation-delay: 2s;
+}
+
+.center {
+  text-align: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.avatar {
+  border-radius: 50%;
+  animation: Rotate360 5s cubic-bezier(0.68, -0.6, 0.32, 1.6) infinite;
 }
