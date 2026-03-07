@@ -78,13 +78,13 @@ footer {
 }
 
 video, img {
+    transition: all 0.3s ease;
     border-radius: 30px;
     margin: 20px 0;
     max-width: 100%;
 }
 
 video:hover, img:hover {
-    transition: all 0.3s ease;
     transform: scale(1.3,1.3);
     animation: normal;
 
