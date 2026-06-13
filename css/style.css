@@ -64,7 +64,7 @@ aside {
 
 h3 {
     font-weight: 900;
-    margin-left: 30px;
+    margin: 30px 50px;
 }
 
 h2 {
@@ -186,6 +186,6 @@ p {
 .itch {
     display: flex;
     justify-content: center; /* Центрирует по горизонтали */
-    align-items: center;     /* Центрирует по вертикали */
-    height: 200px;           /* Занимает 100% высоты видимого экрана */
+    align-items: center;     /* Центрирует по вертикали (если задана высота) */
+    margin: auto;
 }
