@@ -21,14 +21,20 @@ main {
     width: 100vw;  /* Растягивает на всю ширину экрана */
 }
 
-h3 {
-    font-weight: 900;
-    margin: 30px 50px;
+h1 {
+    font-size: 3vw;
+    text-align: center;
+    color: #fff;
+    padding: 30px;
+    border: 2px solid rgba(255,255,255,0.1);
+    backdrop-filter: blur(30px);
+    min-width: 100%;
 }
 
 h2 {
-  margin: 20px 0 0 20px;
+    margin: 20px 0;
 }
+
 
 video, img {
     transition: all 0.3s ease;
@@ -48,15 +54,6 @@ button {
   background-color: #000000;
 }
 
-h1 {
-    margin: 20px 500px;
-    font-size: 3vw;
-    text-align: center;
-    color: #fff;
-    border: 5px outset rgba(255,255,255,0.5);
-    padding: 30px;
-    border-radius: 10px;
-}
 
 p {
     margin: 15px;
@@ -77,13 +74,6 @@ p {
     p {
         font-size: 1em;
         line-height: 30px;
-    }
-    
-    h1 {
-        font-size: 50px;
-        line-height: 10vh;
-        margin: 30px 20vw;
-        padding: 20px 0;
     }
     
     aside {

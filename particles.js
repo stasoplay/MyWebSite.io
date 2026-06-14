@@ -1,10 +1,10 @@
 window.onload = function() {
   particlesJS("particles-js", {
     "particles": {
-      "number": { "value": 100 },
+      "number": { "value": 500 },
       "color": { "value": "#454a5c" },
       "shape": { "type": "circle" },
-      "opacity": { "value": 0.5 },
+      "opacity": { "value": 0 },
       "size": { "value": 3 },
       "line_linked": { "enable": false },
       "move": { "enable": true, "speed": 1 }
@@ -29,6 +29,10 @@ window.onload = function() {
           "opacity": 0.8,
           "speed": 3
         },
+        "repulse": {
+        "distance": 400,
+        "duration": 0.4
+      }
       }
     },
     "retina_detect": true

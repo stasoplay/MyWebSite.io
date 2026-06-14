@@ -1,9 +1,20 @@
 #particles-js {
-  position: fixed;
-  width: 100%;
-  z-index: -1; 
-  pointer-events: none; 
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0; /* Растягивает блок по всем четырем сторонам */
+    z-index: -1; 
+    pointer-events: none; 
 }
+
+/* Принудительно заставляем холст внутри библиотеки заполнять всё пространство */
+#particles-js canvas {
+    display: block;
+    width: 100% !important;
+    height: 100% !important;
+}
+
 .animated-text {
   opacity: 0;
   animation: fadeInY 1.5s ease-out forwards;
@@ -28,54 +39,48 @@
   animation: Rotate360 5s cubic-bezier(0.68, -0.6, 0.32, 1.6) infinite;
 }
 
-
-.contact {
-    position: relative; 
-    margin: 100px 50px 50px 10px;
-    z-index: 1;
-    image-rendering: pixelated;
-    border-radius: 0px;
-}
-
 .itch {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    margin: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
 }
 
 
 /* Анимка в начале */
-.top {
-    animation: Top 1.5s cubic-bezier(0.5, 0, 0.75, 0) forwards;
-    background-color: #000000;
-    padding: 30vh 1000px;
-    position: fixed;
-    transform: translateY(-100px);
-    z-index: 2;
-}
 
-.bottom {
-    animation: Bottom 1.5s cubic-bezier(0.5, 0, 0.75, 0) forwards;
-    background-color: #000000;
-    padding: 30vh 1000px;
-    position: fixed;
-    transform: translateY(400px);
-    z-index: 2;
-}
-
-.white {
+.blackScreen {
   animation: fadeInReverse 1.5s cubic-bezier(0.5, 0, 0.75, 0) forwards;
-  background: white;
+  background: black;
   padding: 100vh;
   position: fixed;
   transform: translateY(-50px);
 }
 
 .block {
-    background-color: rgba(0,0,0,0.3);
-    border-radius: 30px;
-    max-width: 700px;
-    padding: 30px;
-    border: 2px solid rgba(255,255,255,0.1);
+  background-color: rgba(0,0,0,0.3);
+
+  border-radius: 30px;
+  margin-top: 50px;
+  min-width: 600px;
+  max-width: 600px;
+  padding: 30px;
+  border: 2px solid rgba(255,255,255,0.1);
+  backdrop-filter: blur(10px) brightness(2);
+}
+
+.links {
+  border-radius: 10px;
+  margin: 10px 30vw;
+  background-color: rgba(41, 43, 56, 0.3);
+  border: 2px solid rgba(255,255,255,0.1);
+  backdrop-filter: blur(10px) brightness(4);
+}
+
+.contact {
+    position: relative; 
+    margin: 10px 20px 10px 20px;
+    z-index: 1;
+    image-rendering: pixelated;
+    border-radius: 0px;
 }
