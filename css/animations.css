@@ -1,12 +1,14 @@
 @keyframes Top {
   to {
     transform: translateY(-750px);
+    opacity: 0;
   }
 }
 
 @keyframes Bottom {
   to {
     transform: translateY(1050px);
+    opacity: 0;
   }
 }
 

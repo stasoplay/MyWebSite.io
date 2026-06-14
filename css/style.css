@@ -1,4 +1,5 @@
 @import url("animations.css");
+@import url("tags.css");
 
 * {
     font-family: 'Press Start 2P';
@@ -10,56 +11,14 @@
 
 body {
     background: 
-        linear-gradient(to top, #000000, transparent),
-        url('../images_videos/background.jpg') center/cover no-repeat fixed;
-}
-
-.top {
-    animation: Top 1.5s cubic-bezier(0.5, 0, 0.75, 0) forwards;
-    background-color: #000000;
-    padding: 30vh 1000px;
-    position: fixed;
-    transform: translateY(-100px);
-    z-index: 2;
-}
-
-.bottom {
-    animation: Bottom 1.5s cubic-bezier(0.5, 0, 0.75, 0) forwards;
-    background-color: #000000;
-    padding: 30vh 1000px;
-    position: fixed;
-    transform: translateY(400px);
-    z-index: 2;
-}
-
-.white {
-  animation: fadeInReverse 1.5s cubic-bezier(0.5, 0, 0.75, 0) forwards;
-  background: white;
-  padding: 100vh;
-  position: fixed;
-  transform: translateY(-50px);
+    linear-gradient(to top, #000000, transparent),
+    url('../images_videos/background.jpg') center/cover no-repeat fixed;
 }
 
 main {
-    overflow: auto;
-    float: left;
-    max-width: 600px;
-    text-align: justify;
-    margin-top: 100px;
-    background: rgba(0,0,0,0.3);
-    border-radius: 30px;
-    border: 2px solid rgba(255,255,255,0.1);
-}
-
-aside {
-    float: right;
-    margin-right: 30px;
-    margin-top: 100px;
-    width: 500px;
-    background-color: rgba(0,0,0,0.3);
-    border-radius: 30px;
-    padding: 30px 0;
-    border: 2px solid rgba(255,255,255,0.1);
+    display: flex;
+    justify-content: space-around;
+    width: 100vw;  /* Растягивает на всю ширину экрана */
 }
 
 h3 {
@@ -69,13 +28,6 @@ h3 {
 
 h2 {
   margin: 20px 0 0 20px;
-}
-
-footer {
-    text-align: center;
-    padding-top: 50px;
-    clear: both;
-    margin-top: 50px;
 }
 
 video, img {
@@ -111,13 +63,15 @@ p {
     line-height: 30px;
 }
 
+
 /* Для телефонов */
 @media (max-width: 1200px) {
 
     main {
-      margin: 20vw;
+      margin: 20vw auto;
       text-align: center;
-      float: center;
+      flex-direction: column;
+      align-items: center;
     }
 
     p {
@@ -135,57 +89,11 @@ p {
     aside {
         border-radius: 15px;
         width: 70%;
-        margin: 15%;
+        margin: 15% auto;
     }
 
     footer {
         padding-top: 40vh;
     }
     
-}
-
-.animated-text {
-  opacity: 0;
-  animation: fadeInY 1.5s ease-out forwards;
-  animation-delay: 1.5s;
-}
-
-.fadein-text {
-  opacity: 0;
-  animation: fadeIn 1s cubic-bezier(0.22, 1, 0.36, 1) forwards;
-  animation-delay: 2s;
-}
-
-.center {
-  text-align: center;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
-
-.avatar {
-  border-radius: 50%;
-  animation: Rotate360 5s cubic-bezier(0.68, -0.6, 0.32, 1.6) infinite;
-}
-
-#particles-js {
-  position: fixed;
-  width: 100%;
-  z-index: -1; 
-  pointer-events: none; 
-}
-
-.contact {
-    position: relative; 
-    margin: 100px 50px 50px 10px;
-    z-index: 1;
-    image-rendering: pixelated;
-    border-radius: 0px;
-}
-
-.itch {
-    display: flex;
-    justify-content: center; /* Центрирует по горизонтали */
-    align-items: center;     /* Центрирует по вертикали (если задана высота) */
-    margin: auto;
 }

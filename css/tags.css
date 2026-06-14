@@ -1,0 +1,81 @@
+#particles-js {
+  position: fixed;
+  width: 100%;
+  z-index: -1; 
+  pointer-events: none; 
+}
+.animated-text {
+  opacity: 0;
+  animation: fadeInY 1.5s ease-out forwards;
+  animation-delay: 1.5s;
+}
+
+.fadein-text {
+  opacity: 0;
+  animation: fadeIn 1s cubic-bezier(0.22, 1, 0.36, 1) forwards;
+  animation-delay: 2s;
+}
+
+.center {
+  text-align: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.avatar {
+  border-radius: 50%;
+  animation: Rotate360 5s cubic-bezier(0.68, -0.6, 0.32, 1.6) infinite;
+}
+
+
+.contact {
+    position: relative; 
+    margin: 100px 50px 50px 10px;
+    z-index: 1;
+    image-rendering: pixelated;
+    border-radius: 0px;
+}
+
+.itch {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+}
+
+
+/* Анимка в начале */
+.top {
+    animation: Top 1.5s cubic-bezier(0.5, 0, 0.75, 0) forwards;
+    background-color: #000000;
+    padding: 30vh 1000px;
+    position: fixed;
+    transform: translateY(-100px);
+    z-index: 2;
+}
+
+.bottom {
+    animation: Bottom 1.5s cubic-bezier(0.5, 0, 0.75, 0) forwards;
+    background-color: #000000;
+    padding: 30vh 1000px;
+    position: fixed;
+    transform: translateY(400px);
+    z-index: 2;
+}
+
+.white {
+  animation: fadeInReverse 1.5s cubic-bezier(0.5, 0, 0.75, 0) forwards;
+  background: white;
+  padding: 100vh;
+  position: fixed;
+  transform: translateY(-50px);
+}
+
+.block {
+    background-color: rgba(0,0,0,0.3);
+    border-radius: 30px;
+    max-width: 700px;
+    padding: 30px;
+    border: 2px solid rgba(255,255,255,0.1);
+}

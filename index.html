@@ -21,18 +21,22 @@
   <h1 class="animated-text">My Site</h1>
   <p class="center animated-text">Рямов Станислав</p>
 
-  <main class="fadein-text">
-    <h2>Мой Профиль</h2>
-    <img src="images_videos/my_avatar.png" class="avatar" width="300" id="img">
-    <p>Привет, я Станислав, не работаю, не пью, не курю, живу в Кемеровской области. Занимаюсь всяким мелким программированием.</p>
+  <main>
+
+    <div class="fadein-text block">
+      <h2>Мой Профиль</h2>
+      <img src="images_videos/my_avatar.png" class="avatar" width="300" id="img">
+      <p>Привет, я Станислав, живу в Кемеровской области. Занимаюсь всяким мелким программированием. Умею работать с blender, godot, простой вёрсткой веб-страниц</p>
+    </div>
+    
+    <div class="fadein-text block">
+      <h3>Работы</h3>
+      <iframe class="itch" frameborder="0" src="https://itch.io/embed/4672617?border_width=3&amp;bg_color=1b1c23&amp;fg_color=ffffff&amp;link_color=b8b9d8" width="500" height=""><a href="https://ramov.itch.io/tap-it">Tap It by Ramov</a></iframe>
+    </div>
+
   </main>
 
-  <aside class="fadein-text">
-    <h3>Работы</h3>
-    <iframe class="itch" frameborder="0" src="https://itch.io/embed/4672617?border_width=3&amp;bg_color=1b1c23&amp;fg_color=ffffff&amp;link_color=b8b9d8" width="450" height="171"><a href="https://ramov.itch.io/tap-it">Tap It by Ramov</a></iframe>
-  </aside>
-
-  <footer>
+  <footer class="center">
     <video width="300" loop muted autoplay class="center">
       <source src="images_videos/cube.mp4" type="video/mp4">
       Ваш браузер не поддерживает тег видео.
@@ -54,6 +58,8 @@
     </a>
 
   </footer>
+
+  <div class="custom-cursor"></div>
 
   <script src="libraries/particles_code.js"></script>
   <script src="particles.js"></script>
