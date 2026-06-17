@@ -65,12 +65,16 @@ p {
     line-height: 30px;
 }
 
+iframe {
+    width: 100%;
+}
+
 
 /* Для телефонов */
 @media (max-width: 1200px) {
 
     main {
-      margin: 20vw auto;
+      margin: 20vw 0;
       text-align: center;
       flex-direction: column;
       align-items: center;
@@ -80,15 +84,15 @@ p {
         font-size: 1em;
         line-height: 30px;
     }
-    
-    aside {
-        border-radius: 15px;
-        width: 70%;
-        margin: 15% auto;
-    }
 
     footer {
         padding-top: 40vh;
+    }
+
+    .block {
+        padding: 3vh 0;
+        min-width: auto;
+        max-width: 80vw;
     }
     
 }
