@@ -1,77 +1,117 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="ru">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Мой сайт - Рямов Станислав</title>
+    <link href="css/style.css" rel="stylesheet" />
+    <link rel="icon" href="images_videos/icon.svg" type="image/x-icon" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap"
+      rel="stylesheet"
+    />
+  </head>
 
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Мой сайт - Рямов Станислав</title>
-  <link href="css/style.css" rel="stylesheet">
-  <link rel="icon" href="images_videos/icon.jpg" type="image/x-icon">
-  <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet">
-</head>
+  <body>
+    <div id="particles-js"></div>
+    <div class="blackScreen"></div>
 
-<body>
+    <h1 class="animated-text">Мой сайт</h1>
+    <p class="center animated-text">Рямов Станислав</p>
 
-  <div id="particles-js"></div>
-  <div class="blackScreen"></div>
+    <main>
+      <div class="fadein-text block">
+        <h2>Мой Профиль</h2>
+        <img
+          src="images_videos/my_avatar.png"
+          class="avatar"
+          width="300"
+          id="img"
+        />
+        <p>
+          Привет, я Станислав, живу в Кемеровской области. Занимаюсь всяким
+          мелким программированием. Умею работать с blender, godot, простой
+          вёрсткой веб-страниц.
+        </p>
+      </div>
 
-  <h1 class="animated-text">Мой сайт</h1>
-  <p class="center animated-text">Рямов Станислав</p>
+      <div class="fadein-text block">
+        <h2>Работы</h2>
+        <iframe
+          class="itch"
+          frameborder="0"
+          src="https://itch.io/embed/4672617?border_width=3&amp;bg_color=1b1c23&amp;fg_color=ffffff&amp;link_color=b8b9d8"
+          height=""
+          ><a href="https://ramov.itch.io/tap-it">Tap It by Ramov</a></iframe
+        >
+        <p>Проект на godot созданный для саморазвития и изучения движка.</p>
+      </div>
+    </main>
 
-  <main>
+    <footer class="center">
+      <video width="300" loop muted autoplay class="v1">
+        <source src="images_videos/0001-0119.webm" type="video/webm" />
+        Ваш браузер не поддерживает тег видео.
+      </video>
 
-    <div class="fadein-text block">
-      <h2>Мой Профиль</h2>
-      <img src="images_videos/my_avatar.png" class="avatar" width="300" id="img">
-      <p>Привет, я Станислав, живу в Кемеровской области. Занимаюсь всяким мелким программированием. Умею работать с blender, godot, простой вёрсткой веб-страниц.</p>
-    </div>
-    
-    <div class="fadein-text block">
-      <h2>Работы</h2>
-      <iframe class="itch" frameborder="0" src="https://itch.io/embed/4672617?border_width=3&amp;bg_color=1b1c23&amp;fg_color=ffffff&amp;link_color=b8b9d8" height=""><a href="https://ramov.itch.io/tap-it">Tap It by Ramov</a></iframe>
-      <p>Проект на godot созданный для саморазвития и изучения движка.</p>
-    </div>
+      <h2>Связи со мной</h2>
+      <div class="links">
+        <a href="https://discord.com/users/929256776237461534" target="_blank">
+          <img
+            src="images_videos/Info/discord.png"
+            alt=""
+            class="contact"
+            width="50px"
+          />
+        </a>
 
-  </main>
+        <a href="https://www.youtube.com/@play-fu6db" target="_blank">
+          <img
+            src="images_videos/Info/youtube.png"
+            alt=""
+            class="contact"
+            width="50px"
+          />
+        </a>
 
-  <footer class="center">
-    <video width="300" loop muted autoplay class="v1">
-      <source src="images_videos/0001-0119.webm" type="video/webm">
-      Ваш браузер не поддерживает тег видео.
-    </video>
+        <a href="https://ramov.itch.io/" target="_blank">
+          <img
+            src="images_videos/Info/itch.png"
+            alt=""
+            class="contact"
+            width="50px"
+          />
+        </a>
 
-    <h2>Связи со мной</h2>
-    <div class="links">
-    <a href="https://discord.com/users/929256776237461534" target="_blank">
-      <img src="images_videos/Info/discord.png" alt="" class="contact" width="50px">
-    </a>
+        <a href="https://s.team/p/gnnr-gdtt/GFBFWQNG" target="_blank">
+          <img
+            src="images_videos/Info/steam.png"
+            alt=""
+            class="contact"
+            width="50px"
+          />
+        </a>
 
-    <a href="https://www.youtube.com/@play-fu6db" target="_blank">
-      <img src="images_videos/Info/youtube.png" alt="" class="contact" width="50px">
-    </a>
+        <form action="https://api.web3forms.com/submit" method="POST">
+          <h3>Форма отправки письма</h3>
+          <input
+            type="hidden"
+            name="access_key"
+            value="482fcebd-d4c3-43ca-8d56-7b9c03de694d"
+          />
+          <input type="text" name="name" placeholder="Ваше имя" required />
+          <input type="email" name="email" placeholder="Ваш Email" required />
+          <textarea
+            name="message"
+            placeholder="Введите ваше сообщение..."
+            required
+          ></textarea>
+          <button type="submit">Отправить сообщение</button>
+        </form>
+      </div>
+    </footer>
 
-    <a href="https://ramov.itch.io/" target="_blank">
-      <img src="images_videos/Info/itch.png" alt="" class="contact" width="50px">
-    </a>
-
-    <a href="https://s.team/p/gnnr-gdtt/GFBFWQNG" target="_blank">
-      <img src="images_videos/Info/steam.png" alt="" class="contact" width="50px">
-    </a>
-
-      <form action="https://api.web3forms.com/submit" method="POST">
-        <input type="hidden" name="access_key" value="482fcebd-d4c3-43ca-8d56-7b9c03de694d">
-        <input type="text" name="name" placeholder="Ваше имя" required>
-        <input type="email" name="email" placeholder="Ваш Email" required>
-        <textarea name="message" placeholder="Введите ваше сообщение..." required></textarea>
-        <button type="submit">Отправить сообщение</button>
-      </form>
-    </div>
-
-  </footer>
-
-  <script src="libraries/particles_code.js"></script>
-  <script src="particles.js"></script>
-
-</body>
-
+    <script src="libraries/particles_code.js"></script>
+    <script src="particles.js"></script>
+  </body>
 </html>

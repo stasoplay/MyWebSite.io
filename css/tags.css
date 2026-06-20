@@ -1,18 +1,18 @@
 #particles-js {
-    position: fixed;
-    top: 0;
-    left: 0;
-    right: 0;
-    bottom: 0; /* Растягивает блок по всем четырем сторонам */
-    z-index: -1; 
-    pointer-events: none; 
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0; /* Растягивает блок по всем четырем сторонам */
+  z-index: -1;
+  pointer-events: none;
 }
 
 /* Принудительно заставляем холст внутри библиотеки заполнять всё пространство */
 #particles-js canvas {
-    display: block;
-    width: 100% !important;
-    height: 100% !important;
+  display: block;
+  width: 100% !important;
+  height: 100% !important;
 }
 
 .animated-text {
@@ -46,7 +46,6 @@
   margin: auto;
 }
 
-
 /* Анимка в начале */
 
 .blackScreen {
@@ -56,49 +55,51 @@
   position: fixed;
   transform: translateY(-50px);
   z-index: 3;
-  pointer-events: none; 
+  pointer-events: none;
 }
 
 .block {
-  background-color: rgba(0,0,0,0.3);
-  transition: border 0.1s ease-out, backdrop-filter 0.3s ease-out;
+  background-color: rgba(0, 0, 0, 0.3);
+  transition:
+    border 0.1s ease-out,
+    backdrop-filter 0.3s ease-out;
 
   border-radius: 30px;
   margin-top: 50px;
   min-width: 600px;
   max-width: 600px;
   padding: 30px;
-  border: 2px solid rgba(255,255,255,0.1);
-  backdrop-filter: blur(5px) brightness(2);
-
-    &:hover {
-      border: 2px solid rgba(255, 255, 255, 0.3);
-      backdrop-filter: blur(20px) brightness(3);
-    }
-
-}
-
-.links {
-  transition: border 0.3s ease-out, backdrop-filter 0.5s ease-out;
-  border-radius: 10px;
-  margin: 10px 30vw;
-  background-color: rgba(41, 43, 56, 0.3);
-  border: 2px solid rgba(255,255,255,0.1);
+  border: 2px solid rgba(255, 255, 255, 0.1);
   backdrop-filter: blur(5px) brightness(2);
 
   &:hover {
-    border: 2px solid rgba(255,255,255,0.3);
+    border: 2px solid rgba(255, 255, 255, 0.3);
     backdrop-filter: blur(20px) brightness(3);
   }
+}
 
+.links {
+  transition:
+    border 0.3s ease-out,
+    backdrop-filter 0.5s ease-out;
+  border-radius: 10px;
+  margin: 40px 20vw;
+  background-color: rgba(41, 43, 56, 0.3);
+  border: 2px solid rgba(255, 255, 255, 0.1);
+  backdrop-filter: blur(5px) brightness(2);
+
+  &:hover {
+    border: 2px solid rgba(255, 255, 255, 0.3);
+    backdrop-filter: blur(20px) brightness(3);
+  }
 }
 
 .contact {
-    position: relative; 
-    margin: 10px 20px 10px 20px;
-    z-index: 1;
-    image-rendering: pixelated;
-    border-radius: 0px;
+  position: relative;
+  margin: 10px 20px 10px 20px;
+  z-index: 1;
+  image-rendering: pixelated;
+  border-radius: 0px;
 }
 
 .v1 {
