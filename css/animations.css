@@ -10,43 +10,32 @@
     transform: translateY(-100%);
   }
   16% {
-		transform: translateY(10%);
-	}
-
-	28% {
-		transform: translateY(-6%);
-	}
-
-	44% {
-		transform: translateY(2%);
-	}
-
-	59% {
-		transform: translateY(-2%);
-	}
-
-	73% {
-		transform: translateY(1%);
-	}
-
-	88% {
-		transform: translateY(-1%);
-	}
-
-    to {
-    opacity: 1;
-    transform: translateY(0%);
+    transform: translateY(10%);
   }
-}
 
-@keyframes fadeIn {
-  from {
-    opacity: 0;
-    scale: 1.1;
+  28% {
+    transform: translateY(-6%);
   }
+
+  44% {
+    transform: translateY(2%);
+  }
+
+  59% {
+    transform: translateY(-2%);
+  }
+
+  73% {
+    transform: translateY(1%);
+  }
+
+  88% {
+    transform: translateY(-1%);
+  }
+
   to {
     opacity: 1;
-    scale: 1;
+    transform: translateY(0%);
   }
 }
 
