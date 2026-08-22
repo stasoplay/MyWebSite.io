@@ -1,0 +1,1 @@
+import{i as e}from"./OptionsColor-CVi3tKJA.js";import{t}from"./OptionsUtils-BMkgB5NH.js";import{n,r,t as i}from"./Stroke-C9SmIIDh.js";var a=class extends e{color;fill;stroke;doLoad(e){e.color!==void 0&&(this.color=r.create(this.color,e.color)),t(this,`fill`,e.fill,()=>new n),t(this,`stroke`,e.stroke,()=>new i)}};export{a as t};

@@ -13,12 +13,28 @@
             rel="stylesheet"
             href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"
         />
-      <script type="module" crossorigin src="./assets/index-zDY8zE08.js"></script>
-      <link rel="stylesheet" crossorigin href="./assets/index-DgtqBh_Q.css">
+      <script type="module" crossorigin src="./assets/index-CAgS1uGp.js"></script>
+      <link rel="modulepreload" crossorigin href="./assets/Constants-SPF2XdRE.js">
+      <link rel="modulepreload" crossorigin href="./assets/TypeUtils-CQWCxn3x.js">
+      <link rel="modulepreload" crossorigin href="./assets/MathUtils-CR0mNWmQ.js">
+      <link rel="modulepreload" crossorigin href="./assets/Utils-Dw-Odr7d.js">
+      <link rel="modulepreload" crossorigin href="./assets/OptionsUtils-BMkgB5NH.js">
+      <link rel="modulepreload" crossorigin href="./assets/OptionsColor-CVi3tKJA.js">
+      <link rel="modulepreload" crossorigin href="./assets/Stroke-C9SmIIDh.js">
+      <link rel="modulepreload" crossorigin href="./assets/ValueWithRandom-CNxyPR2H.js">
+      <link rel="modulepreload" crossorigin href="./assets/Paint-CX8-bR2u.js">
+      <link rel="modulepreload" crossorigin href="./assets/ParticlesOptionsLoader-DGB9Lpem.js">
+      <link rel="modulepreload" crossorigin href="./assets/preload-helper-HclGiUj8.js">
+      <link rel="modulepreload" crossorigin href="./assets/RotateDirection-D98JyAXx.js">
+      <link rel="modulepreload" crossorigin href="./assets/ColorUtils-BBRKUgf2.js">
+      <link rel="modulepreload" crossorigin href="./assets/InteractivityConstants-EXfxN-62.js">
+      <link rel="modulepreload" crossorigin href="./assets/Absorber-Dse_NL9e.js">
+      <link rel="modulepreload" crossorigin href="./assets/Emitter-CU8VC9wE.js">
+      <link rel="stylesheet" crossorigin href="./assets/index-CaZVw3ni.css">
     </head>
 
     <body>
-        <div id="particles-js"></div>
+        <div id="tsparticles"></div>
         <div class="blackScreen"></div>
 
         <!-- Header -->
@@ -43,16 +59,24 @@
                 <img src="./my_avatar.png" class="avatar" width="300" id="img" />
                 <p>
                     Привет, я Станислав, живу в Кемеровской области. Занимаюсь
-                    всяким мелким программированием. Умею работать с blender,
-                    godot, простой вёрсткой веб-страниц.
+                    программированием. Умею работать с blender, godot, простой
+                    вёрсткой веб-страниц.
                 </p>
+            </div>
+
+            <!-- Discord -->
+            <div
+                class="animate__animated animate__zoomIn animate__delay-2s block"
+            >
+                <h2 class="centertext">Дискорд Сервер</h2>
+                <div id="members"></div>
             </div>
 
             <!-- Works -->
             <div
                 class="animate__animated animate__fadeInRight animate__delay-2s block"
             >
-                <h2>Работы</h2>
+                <h2 class="righttext">Работы</h2>
                 <iframe
                     class="itch"
                     frameborder="0"
@@ -154,6 +178,5 @@
                 </form>
             </div>
         </footer>
-        <script src="./particles_code.js"></script>
     </body>
 </html>
